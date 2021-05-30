@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SharkieXD",
+      "uniqueId": "51a466d0-5217-4bee-ad9a-87feeb8df36e"
+    },
+    "time": 1621921841625,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XIYGWLfV0Q"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SharkieXD",
+      "uniqueId": "51a466d0-5217-4bee-ad9a-87feeb8df36e"
+    },
+    "time": 1621920973015,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/1AgDBGENc6"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SharkieTV",
+      "uniqueId": "76d6daf3-9d36-4066-ba91-ac9578105b7e"
+    },
+    "time": 1620195640229,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WPGWmnJbFY"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "SharkieTV",
+      "uniqueId": "76d6daf3-9d36-4066-ba91-ac9578105b7e"
+    },
+    "time": 1620194881167,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/D84mk6YK77"
+    }
+  }
+]
