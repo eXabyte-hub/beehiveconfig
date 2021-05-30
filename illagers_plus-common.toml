@@ -1,0 +1,33 @@
+
+["Structure Feature Distance Values"]
+	#Archer Tower: Minimum spread dist
+	#Range: 1 ~ 256
+	archerTowerMinDist = 60
+	#Archer Tower: Maximum spread dist
+	#Range: 1 ~ 256
+	archerTowerMaxDist = 90
+	#Centre: Minimum spread dist
+	#Range: 1 ~ 256
+	centreMinDist = 60
+	#Centre: Maximum spread dist
+	#Range: 1 ~ 256
+	centreMaxDist = 90
+	#Fort: Minimum spread dist
+	#Range: 1 ~ 256
+	fortMinDist = 60
+	#Fort: Maximum spread dist
+	#Range: 1 ~ 256
+	fortMaxDist = 90
+	#Mine: Minimum spread dist
+	#Range: 1 ~ 256
+	mineMinDist = 75
+	#Mine: Maximum spread dist
+	#Range: 1 ~ 256
+	mineMaxDist = 90
+	#Tower: Minimum spread dist
+	#Range: 1 ~ 256
+	towerMinDist = 75
+	#Tower: Maximum spread dist
+	#Range: 1 ~ 256
+	towerMaxDist = 90
+
