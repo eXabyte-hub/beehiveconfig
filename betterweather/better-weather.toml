@@ -1,0 +1,9 @@
+#What dimensions have seasons?
+#Mod IDs or dimension IDs ONLY.
+#Default: ["minecraft:overworld"]
+season_dimension_whitelist = ["minecraft:overworld"]
+#What dimensions have weather events?
+#Mod IDs or dimension IDs ONLY.
+#Default: ["minecraft:overworld"]
+weather_event_dimension_whitelist = ["minecraft:overworld"]
+
