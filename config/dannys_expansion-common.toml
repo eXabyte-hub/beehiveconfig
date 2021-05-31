@@ -1,7 +1,7 @@
 
 [General]
 	#Allowed mod biomes where the mobs can spawn, by ID like: minecraft, biomesoplenty, etc.
-	modIDs = ["minecraft"]
+	modIDs = ["BYG"]
 	#Sporers should only spawn in rain?
 	sporerOnlySpawnInRain = true
 
