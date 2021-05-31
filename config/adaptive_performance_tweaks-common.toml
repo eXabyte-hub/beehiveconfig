@@ -6,11 +6,11 @@
 	#Enable/Disable view distance optimization depending on the server load.
 	optimizeViewDistance = true
 	#Enable/Disable passive mobs optimization depending on the server load.
-	optimizePassiveMobs = false
+	optimizePassiveMobs = true
 	#Enable/Disable neutral mobs optimization depending on the server load.
-	optimizeNeutralMobs = false
+	optimizeNeutralMobs = true
 	#Enable/Disable hostile mobs optimization depending on the server load.
-	optimizeHostileMobs = false
+	optimizeHostileMobs = true
 	#Enable/Disable boss mobs optimization depending on the server load.
 	optimizeBossMobs = false
 
