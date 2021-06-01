@@ -21,7 +21,7 @@
 	"Spawn Pixies" = true
 	#How many blocks away can cyclopes detect sheep. Note that increasing this could cause lag.
 	#Range: 1 ~ 10000
-	"Cyclopes Sheep Search Length" = 17
+	"Cyclopes Sheep Search Length" = 15
 	#A double check to see if the game can spawn death worms. Higher number = lower chance to spawn.
 	#Range: 0 ~ 10000
 	"Death Worm Spawn Check Chance" = 3
@@ -121,7 +121,7 @@
 	#True if siren islands are allowed to spawn
 	"Spawn Sirens" = true
 	#True if tamed dragons can follow the griefing rules.
-	"Tamed Dragon Griefing" = true
+	"Tamed Dragon Griefing" = false
 	#Default deathworm attack strength, this is scaled to the worm's particular size
 	#Range: 1.0 ~ 10000.0
 	"Death Worm Base Attack Strength" = 3.0
