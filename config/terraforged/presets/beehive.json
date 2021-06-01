@@ -439,12 +439,79 @@
         "salt": 1689777,
         "disabled": false
       },
-      "tower":{
+      "dungeonsmod:the_chapel": {
+        "spacing": 32,
+        "seperation": 8,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_nest": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_pitcher": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_camp": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_sewers": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_house": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_iron_mines": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_ship": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_castle": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_lab": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_catacombs": {
+        "spacing": 70,
+        "seperation": 23,
+        "salt": 1689777,
+        "disabled": false
+      },
+      "dungeonsmod:the_origin": {
         "spacing": 70,
         "seperation": 23,
         "salt": 1689777,
         "disabled": false
       }
+
     
 
     }
