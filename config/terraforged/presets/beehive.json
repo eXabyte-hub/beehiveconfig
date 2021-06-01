@@ -442,73 +442,73 @@
       "dungeonsmod:the_chapel": {
         "spacing": 32,
         "seperation": 8,
-        "salt": 1689777,
+        "salt": 31632,
         "disabled": false
       },
       "dungeonsmod:the_nest": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 16,
+        "seperation": 4,
+        "salt": 58625,
         "disabled": false
       },
       "dungeonsmod:the_pitcher": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 8,
+        "seperation": 2,
+        "salt": 32127,
         "disabled": false
       },
       "dungeonsmod:the_camp": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 32,
+        "seperation": 8,
+        "salt": 14357617,
         "disabled": false
       },
       "dungeonsmod:the_sewers": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 32,
+        "seperation": 8,
+        "salt": 14341,
         "disabled": false
       },
       "dungeonsmod:the_house": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 9326560,
         "disabled": false
       },
       "dungeonsmod:the_iron_mines": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 9326560,
         "disabled": false
       },
       "dungeonsmod:the_ship": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 214556,
         "disabled": false
       },
       "dungeonsmod:the_castle": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 5284629,
         "disabled": false
       },
       "dungeonsmod:the_lab": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 3241280,
         "disabled": false
       },
       "dungeonsmod:the_catacombs": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 3252381,
         "disabled": false
       },
       "dungeonsmod:the_origin": {
-        "spacing": 70,
-        "seperation": 23,
-        "salt": 1689777,
+        "spacing": 80,
+        "seperation": 20,
+        "salt": 621556,
         "disabled": false
       }
 
