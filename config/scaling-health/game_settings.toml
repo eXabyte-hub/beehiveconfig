@@ -140,7 +140,7 @@
 [player]
 
 	[player.health]
-	enabled=false
+	enabled = false
 		#Starting player health, in half-hearts (20 = 10 hearts)
 		startingHealth = 20
 		#The minimum amount of health a player can have (this can be lower than starting health)

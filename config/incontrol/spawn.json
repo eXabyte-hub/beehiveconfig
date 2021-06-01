@@ -1,1 +1,10 @@
-[]
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "minecraft:skeleton",
+    "mincount": {
+      "amount": 50,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+  }
