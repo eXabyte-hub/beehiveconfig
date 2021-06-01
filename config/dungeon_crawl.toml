@@ -19,7 +19,7 @@
 	mob_spawn_rate = 0.05
 	#The number of different entities per spawner. Increasing the number increases the diversity of the monster equipment.
 	#Range: 1 ~ 128
-	spawner_entities = 6
+	spawner_entities = 4
 	#If set to true, the dungeon generation will ignore the biome blacklist and generate dungeons in any overworld biome.
 	ignore_overworld_blacklist = false
 	#The Probability of a spawner entity having a shield in the offhand.
