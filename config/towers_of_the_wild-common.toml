@@ -2,7 +2,7 @@
 [towers]
 	#How rarely the towers will spawn (low: common, high: rare). Default: 20
 	#Range: 3 ~ 200
-	towerRarity = 20
+	towerRarity = 40
 	#How rarely the derelict towers will spawn (low: common, high: rare). Default: 72
 	#Range: 3 ~ 200
 	derelictTowerRarity = 72
@@ -10,7 +10,7 @@
 	spawnOceanTowers = true
 	#How rarely the ocean towers will spawn (low: common, high: rare). Default: 32
 	#Range: 3 ~ 200
-	oceanTowerRarity = 32
+	oceanTowerRarity = 62
 	#A list of mod ids. In each and every biome added by those mods, the towers will not spawn. Default : The Midnight.
 	allModBiomesBlackList = ["midnight", "the_bumblezone"]
 	#A list of biomes where the towers will not spawn. Default: Rivers, Beaches
