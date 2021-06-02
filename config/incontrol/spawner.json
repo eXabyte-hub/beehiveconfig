@@ -1,1 +1,118 @@
-[]
+[
+    {
+    "mob": "alexsmobs:fly",
+    "attempts": 50,
+    "amount": {
+        "minimum": 1,
+        "maximum": 3
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "minheight": 58,
+        "maxheight": 84,
+        "maxlocal": 20
+    }
+    },
+    {
+    "mob": "minecraft:spider",
+    "attempts": 3,
+    "amount": {
+        "minimum": 1,
+        "maximum": 2
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "norestrictions": true,
+        "minheight": 58,
+        "maxheight": 256,
+        "maxlocal": 20
+    }
+    },
+    {
+    "mob": "quark:crab",
+    "attempts": 3,
+    "amount": {
+        "minimum": 2,
+        "maximum": 3
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "minheight": 58,
+        "maxheight": 73,
+        "maxlocal": 8
+    }
+    },
+    {
+    "mob": "untitledduckmod:duck",
+    "attempts": 3,
+    "amount": {
+        "minimum": 3,
+        "maximum": 5
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "inwater": true,
+        "minheight": 58,
+        "maxheight": 64,
+        "maxlocal": 2
+    }
+    },
+    {
+    "mob": "minecraft:turtle",
+    "persecond": 0.01,
+    "attempts": 10,
+    "amount": {
+        "minimum": 1,
+        "maximum": 2
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "inwater": true,
+        "minheight": 48,
+        "maxheight": 72,
+        "maxlocal": 2
+    }
+    },
+    {
+    "mob": "dannys_expansion:ghoul",
+    "attempts": 1,
+    "amount": {
+        "minimum": 1,
+        "maximum": 2
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "norestrictions": true,
+        "minheight": 58,
+        "maxheight": 256,
+        "maxlocal": 10
+    }
+    },
+    {
+    "mob": "dannys_expansion:sporer",
+    "attempts": 1,
+    "amount": {
+        "minimum": 1,
+        "maximum": 2
+    },
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "norestrictions": true,
+        "inair": true,
+        "minheight": 68,
+        "maxheight": 91,
+        "maxlocal": 20
+    }
+    },
+    {
+    "conditions": {
+        "dimension": "minecraft:overworld",
+        "inair": true,
+        "mindist": 16,
+        "maxdist": 32,
+        "minheight": 64,
+        "maxheight": 84,
+        "maxlocal": 15
+    }
+    }
+]
