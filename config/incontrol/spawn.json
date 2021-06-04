@@ -1,150 +1,43 @@
 [
   {
     "dimension": "minecraft:overworld",
-    "mob": "minecraft:bat",
-    "mincount": {
-      "amount": 5,
-      "mob": "minecraft:bat",
-      "perplayer": true
-    },
+    "mob": ["betterdefaultbiomes:duck", "enviromental:duck"],
+    "biome": ["minecraft:river", "minecraft:swamp", "minecraft:swamp_hills", "byg:fresh_water_lake", "byg:cypress_swamplands", "byg:bayou", "byg:cold_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "enviromental:marsh"],
+    "result": "default"
+  },
+  {
+    "dimension": "minecraft:overworld",
+    "mob": ["betterdefaultbiomes:duck", "enviromental:duck"],
     "result": "deny"
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "alexsmobs:guster",
-    "mincount": {
-      "amount": 26,
-      "mob": "alexsmobs:guster",
-      "perplayer": true
-    },
-    "result": "deny"
+    "mob": ["alexsmobs:crocodile", "betterdefaultbiomes:muddy_pig", "minecraft:slime", "dannys_expansion:mundane_slime", "enviromental:slabfish", "alexsmobs:alligator_snapping_turtle", "productivebees:green_carpenter_bee", "dungeons_mobs:mossy_skeleton", "minecraft:witch", "enviromental:frog", "betterdefaultbiomes:frog"],
+    "biome": ["minecraft:river", "minecraft:swamp", "minecraft:swamp_hills", "byg:fresh_water_lake", "byg:cypress_swamplands", "byg:bayou", "byg:cold_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "enviromental:marsh"],
+    "tempcategory": "WARM",
+    "result": "default"
   },
   {
-    "mob": ["minecraft:skeleton", "minecraft:zombie", "minecraft:spider", "minecraft:creeper", "minecraft:witch"],
-    "dimension": ["minecraft:the_nether", "minecraft:the_end"],
-    "result": "deny"
-  },
-  {
-    "mob": "dannys_expansion:jungle_golem",
-    "biome": ["byg:allium_fields", "byg:ancient_forest", "byg:autumnal_valley", "byg:baobab_savanna", "byg:bayou"],
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:enderman",
-    "biome": ["betterendforge:amber_land", "betterendforge:blossoming_spires", "betterendforge:chorus_forest", "betterendforge:crystal_mountains", "betterendforge:foggy_mushroomland", "betterendforge:ice_starfield", "betterendforge:megalake", "betterendforge:magelake_grove", "betterendforge:sulphur_springs", "betterendforge:umbrella_jungle"],
-    "result": "deny"
-  },
-  {
-    "mob": ["minecraft:sheep", "minecraft:pig", "minecraft:chicken", "minecraft:cow", "alexsmobs:raccoon", "alexsmobs:grizzly_bear", "alexsmobs:tasmanian_devil"],
-    "biome": ["byg:dead_sea"],
+    "dimension": "minecraft:overworld",
+    "mob": ["alexsmobs:crocodile", "betterdefaultbiomes:muddy_pig", "minecraft:slime", "dannys_expansion:mundane_slime", "enviromental:slabfish", "alexsmobs:alligator_snapping_turtle", "productivebees:green_carpenter_bee", "dungeons_mobs:mossy_skeleton", "minecraft:witch", "enviromental:frog", "betterdefaultbiomes:frog"],
     "result": "deny"
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "alexsmobs:fly",
-    "biome": ["byg:shrublands", "byg:guiana_shield", "byg:araucaria_savanna", "byg:aspen_forest", "byg:mangrove_marshes", "byg:baobab_savanna", "byg:bayou", "byg:crag_gardens", "byg:cypress_swamplands", "byg:dead_sea"],
-    "onjoin": true,
-    "result": "allow"
+    "mob": ["",  ""],
+    "biome": ["minecraft:river", "minecraft:swamp", "minecraft:swamp_hills", "byg:fresh_water_lake", "byg:cypress_swamplands", "byg:bayou", "byg:cold_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "enviromental:marsh"],
+    "result": "default"
+  },
+  {
+  "result": "deny"
   },
   {
     "dimension": "minecraft:overworld",
-    "mob": "alexsmobs:fly",
-    "result": "deny"
+    "mob": "enviromental:koi",
+    "biome": ["minecraft:river", "byg:fresh_water_lake"],
+    "result": "default"
   },
   {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:spider",
-    "biome": ["biomesoplenty:silkglade", "biomesoplenty:wasteland", "biomesoplenty:burnt_forest", "biomesoplenty:wooded_wasteland", "biomesoplenty:dead_forest", "biomesoplenty:dead_swamp", "biomesoplenty:dry_boneyard", "biomesoplenty:ominous_woods", "biomesoplenty:ominous_mire", "biomesoplenty:silkglade_nest"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:spider",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "quark:crab",
-    "biome": ["minecraft:beach", "minecraft:gravel_beach", "byg:dead_sea", "byg:mangrove_marshes"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "quark:crab",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:turtle",
-    "biome": ["minecraft:beach", "minecraft:gravel_beach", "byg:mangrove_marshes", "minecraft:ocean", "minecraft:deep_ocean", "minecraft:warm_ocean", "minecraft:deep_lukewarm_ocean", "minecraft:deep_warm_ocean", "minecraft:lukewarm_ocean"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:turtle",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "dannys_expansion:ghoul",
-    "biome": ["byg:dead_sea", "byg:baobab_savanna", "byg:bayou", "byg:cold_swamplands", "byg:cypress_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "byg:weeping_witch_forest"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "dannys_expansion:ghoul",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "dannys_expansion:sporer",
-    "biome": ["byg:mangrove_marshes", "byg:weeping_witch_forest"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "dannys_expansion:sporer",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "supplementaries:firefly",
-    "biome": ["byg:flowering_ancient_forest", "byg:cypress_swamplands", "byg:glowshroom_bayou", "byg:mangrove_marshes", "byg:vibrant_swamplands", "byg:pumpkin_forest", "byg:twilight_valley", "byg:tropical_fungal_forest", "byg:the_black_forest", "byg:redwood_tropics", "byg:guiana_shield", "biomesoplenty:rainforest", "biomesoplenty:redwood_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:shrubland", "biomesoplenty:silkglade", "biomesoplenty:orchard", "biomesoplenty:redwood_forest_edge", "biomesoplenty:bamboo_blossom_grove", "biomesoplenty:bayou_mangrove", "biomesoplenty:fungal_field", "biomesoplenty:golden_prairie", "biomesoplenty:jade_grassland", "biomesoplenty:lavender_forest", "biomesoplenty:lush_savanna", "biomesoplenty:mystic_plains", "biomesoplenty:ominous_mire", "biomesoplenty:rainforest_floodplain", "biomesoplenty:redwood_hills", "biomesoplenty:shrubland_hills", "minecraft:swamp", "minecraft:swamp_hills", "minecraft:plains", "minecraft:sunflower_plains", "minecraft:dark_forest", "minecraft:dark_forest_hills", "minecraft:forest", "minecraft:savanna"],
-    "maxlight": 8,
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "supplementaries:firefly",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "untitledduckmod:duck",
-    "biome": ["minecraft:river", "minecraft:swamp", "minecraft:swamp_hills", "biomesoplenty:bayou", "biomesoplenty:mangrove", "biomesoplenty:marsh", "biomesoplenty:wetland", "biomesoplenty:wetland_marsh", "biomesoplenty:bayou_mangrove", "biomesoplenty:grove_lakes", "biomesoplenty:grove"],
-    "onjoin": true,
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "untitledduckmod:duck",
-    "result": "deny"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:squid",
-    "biome": ["minecraft:ocean", "minecraft:deep_ocean"],
-    "result": "allow"
-  },
-  {
-    "dimension": "minecraft:overworld",
-    "mob": "minecraft:squid",
-    "result": "deny"
+  "result": "deny"
   }
 ]
