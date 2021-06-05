@@ -16,7 +16,7 @@
 	#Range: 1 ~ 10000
 	"Lich Spawn Weight" = 2
 	#Whether or not sea serpents can break weak blocks in their way
-	"Sea Serpent Griefing" = true
+	"Sea Serpent Griefing" = false
 	#True if pixie villages are allowed to spawn
 	"Spawn Pixies" = true
 	#How many blocks away can cyclopes detect sheep. Note that increasing this could cause lag.
@@ -45,7 +45,7 @@
 	#True if ghosts can rarely spawn from brutal PvP deaths.
 	"Ghost Spawn from PvP deaths" = true
 	#Whether or not cyclops can break logs or leaves in their way
-	"Cyclops Griefing" = true
+	"Cyclops Griefing" = false
 	#Disable this to remove easter egg with tinkers installed.
 	Weezer = true
 	#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
@@ -81,12 +81,12 @@
 	"Myrmex Colony Max Size" = 80
 	#1 out of this number chance per block that gold will generate in dragon lairs.
 	#Range: 1 ~ 10000
-	"Dragon Den Gold Amount" = 4
+	"Dragon Den Gold Amount" = 6
 	#Whether to generate dragon skeletons or not
-	"Generate Dragon Skeletons" = true
+	"Generate Dragon Skeletons" = false
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Spawn Cyclops Cave Chance" = 100
+	"Spawn Cyclops Cave Chance" = 1000
 	#True if myrmex colonies are allowed to spawn
 	"Spawn Myrmex" = true
 	#Default attack strength of a dragonsteel sword.
@@ -163,10 +163,10 @@
 	"Dragon Flight Speed Modifier" = 1.0
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Spawn Wandering Cyclops Chance" = 100
+	"Spawn Wandering Cyclops Chance" = 600
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Spawn Gorgon Chance" = 75
+	"Spawn Gorgon Chance" = 175
 	#Default durability value of dragonsteel sword.
 	#Range: > 1
 	"Dragonsteel Base Durability" = 8000
@@ -185,7 +185,7 @@
 	#True if amphitheres are allowed to spawn
 	"Spawn Amphitheres" = true
 	#Whether to generate sapphire ore or not
-	"Generate Sapphire Ore" = true
+	"Generate Sapphire Ore" = false
 	#Maximum ghost health.
 	#Range: 1.0 ~ 10000.0
 	"Ghost Max Health" = 30.0
@@ -197,19 +197,19 @@
 	"Dragon Attack Damage(Lightning breath)" = 3.5
 	#One out of this number chance per chunk to generate a myrmex hive.
 	#Range: 1 ~ 10000
-	"Myrmex Colony Gen Chance" = 150
+	"Myrmex Colony Gen Chance" = 200
 	#Hippogryph spawn weight. Lower = lower chance to spawn.
 	#Range: 1 ~ 10000
-	"Hippogryph Spawn Weight" = 2
+	"Hippogryph Spawn Weight" = 4
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Generate Dragon Roost Chance" = 360
+	"Generate Dragon Roost Chance" = 580
 	#Maximum ghost attack strength.
 	#Range: 0.0 ~ 10000.0
 	"Ghost Attack Strength" = 3.0
 	#One out of this number chance per chunk to generate a hydra cave.
 	#Range: 1 ~ 10000
-	"Hydra Caves Gen Chance" = 100
+	"Hydra Caves Gen Chance" = 260
 	#Every interval of this number in ticks, dragon allowed to break blocks.
 	#Range: 0 ~ 10000
 	"Dragon Block Break Cooldown" = 5
@@ -230,7 +230,7 @@
 	"Glacier Spawn Weight" = 4
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
-	"Generate Dragon Cave Chance" = 180
+	"Generate Dragon Cave Chance" = 480
 	#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default
 	#Range: 0 ~ 2
 	"Dragon Griefing" = 0
@@ -245,7 +245,7 @@
 	"Death Worms Target Monsters" = true
 	#How far away dangerous structures(dragon roosts, cyclops caves, etc.) must be from the last generated structure.
 	#Range: 1 ~ 10000
-	"Dangerous World Gen Dist Seperation" = 300
+	"Dangerous World Gen Dist Seperation" = 500
 	#True if dragons fire/ice charges create secondary explosions that launch blocks everywhere. Turn this to true if you like unfair explosions. Or lag.
 	"Explosive Dragon Breath" = false
 	#Maximum threads to use for dragon/myrmex pathfinding. Increase this number if pathing is slow and you have many cores.
@@ -291,7 +291,7 @@
 	#Range: 0.0 ~ 1.0
 	"Easter Egg Tinkers Tool Disarm chance" = 0.20000000298023224
 	#Whether to generate amethyst ore or not
-	"Generate Amethyst Ore" = true
+	"Generate Amethyst Ore" = false
 	#Ratio of Stone(this number) to Ores in Dragon Caves
 	#Range: 1 ~ 10000
 	"Dragon Cave Ore Ratio" = 45
