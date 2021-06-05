@@ -96,6 +96,11 @@
   },
   {
   "dimension": "minecraft:overworld",
+  "mob": ["minecraft:skeleton", "minecraft:zombie", "minecraft:spider", "minecraft:creeper", "minecraft:enderman", "minecraft:slime", "minecraft:illager"],
+  "result": "default"
+  },
+  {
+  "dimension": "minecraft:overworld",
   "result": "deny"
   }
   
