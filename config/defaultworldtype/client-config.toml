@@ -4,5 +4,5 @@
 	#Only works if world-type if 'flat'.
 	flat-settings = "minecraft:bedrock,2*minecraft:dirt,minecraft:grass_block;minecraft:plains"
 	#Type in the name from the world type which should be selected by default.
-	world-type = "overworld_two"
+	world-type = "default"
 
