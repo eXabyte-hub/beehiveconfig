@@ -8,7 +8,7 @@
         },
         "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5
+            "maxthis": 5
     }
     },
     {
@@ -20,7 +20,7 @@
         },
         "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5
+            "maxthis": 5
     }
     },
     {
@@ -32,7 +32,7 @@
     },
     "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5
+            "maxthis": 5
     }
     },
     {
@@ -44,7 +44,7 @@
     },
         "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5
+            "maxthis": 5
     }
     },
     {
@@ -56,7 +56,7 @@
     },
     "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5,
+            "maxthis": 5,
             "inwater": true
     }
     },
@@ -69,7 +69,7 @@
     },
     "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 20
+            "maxthis": 20
     }
     },
     {
@@ -81,7 +81,7 @@
     },
     "conditions": {
             "dimension": "minecraft:overworld",
-            "maxtotal": 5
+            "maxthis": 5
     }
     },
     {
@@ -93,7 +93,7 @@
     },
 "conditions": {
         "dimension": "minecraft:overworld",
-        "maxtotal": 5,
+        "maxthis": 5,
         "inwater": true
     }
     },
@@ -106,7 +106,7 @@
 },
 "conditions": {
         "dimension": "minecraft:overworld",
-        "maxtotal": 5
+        "maxthis": 5
 }
 },
 {
@@ -118,7 +118,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -130,7 +130,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -142,7 +142,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -154,7 +154,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -166,7 +166,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5,
+    "maxthis": 5,
     "inwater": true
 }
 },
@@ -179,7 +179,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5,
+    "maxthis": 5,
     "inwater": true
 }
 },
@@ -192,7 +192,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -204,7 +204,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -216,7 +216,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -228,7 +228,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -240,7 +240,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -252,7 +252,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -264,7 +264,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -276,7 +276,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -288,7 +288,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5,
+    "maxthis": 5,
     "inwater": true
 }
 },
@@ -301,7 +301,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -313,7 +313,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -325,7 +325,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -337,7 +337,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -349,7 +349,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -361,7 +361,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -373,7 +373,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -385,7 +385,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5,
+    "maxthis": 5,
     "inwater": true
 }
 },
@@ -398,7 +398,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -410,7 +410,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -422,7 +422,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -434,7 +434,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -446,7 +446,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -458,7 +458,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -470,7 +470,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -482,7 +482,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -494,7 +494,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -506,7 +506,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -518,7 +518,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -530,7 +530,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -542,7 +542,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -554,7 +554,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -566,7 +566,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -578,7 +578,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -590,7 +590,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -602,7 +602,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -614,7 +614,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -626,7 +626,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -638,7 +638,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -650,7 +650,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -662,7 +662,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -674,7 +674,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -686,7 +686,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -698,7 +698,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -710,7 +710,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -722,7 +722,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -734,7 +734,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 10
+    "maxthis": 10
 }
 },
 {
@@ -746,7 +746,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -758,7 +758,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -770,7 +770,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -782,7 +782,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -794,7 +794,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -806,7 +806,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -818,7 +818,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -830,7 +830,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -842,7 +842,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -854,7 +854,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -866,7 +866,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -878,7 +878,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -890,7 +890,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -902,7 +902,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -914,7 +914,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -926,7 +926,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -938,7 +938,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -950,7 +950,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -962,7 +962,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -974,7 +974,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -986,7 +986,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -998,7 +998,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1010,7 +1010,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1022,7 +1022,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1034,7 +1034,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1046,7 +1046,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1058,7 +1058,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1070,7 +1070,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1082,7 +1082,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1094,7 +1094,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1106,7 +1106,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1118,7 +1118,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1130,7 +1130,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1142,7 +1142,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1154,7 +1154,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1166,7 +1166,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1178,7 +1178,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1190,7 +1190,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1202,7 +1202,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1214,7 +1214,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1226,7 +1226,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1238,7 +1238,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1250,7 +1250,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1262,7 +1262,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1274,7 +1274,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1286,7 +1286,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1298,7 +1298,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1310,7 +1310,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1322,7 +1322,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1334,7 +1334,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1346,7 +1346,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1358,7 +1358,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1370,7 +1370,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1382,7 +1382,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1394,7 +1394,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1406,7 +1406,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1418,7 +1418,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1430,7 +1430,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1442,7 +1442,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1454,7 +1454,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1466,7 +1466,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1478,7 +1478,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1490,7 +1490,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1502,7 +1502,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1514,7 +1514,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1526,7 +1526,7 @@
 },
 "conditions": {
     "dimension": "minecraft:nether",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1538,7 +1538,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1550,7 +1550,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1562,7 +1562,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1574,7 +1574,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1586,7 +1586,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1598,7 +1598,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1610,7 +1610,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1622,7 +1622,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1634,7 +1634,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1646,7 +1646,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1658,7 +1658,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1670,7 +1670,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1682,7 +1682,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1694,7 +1694,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1706,7 +1706,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1718,7 +1718,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1730,7 +1730,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1742,7 +1742,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1754,7 +1754,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1766,7 +1766,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1778,7 +1778,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1790,7 +1790,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1802,7 +1802,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1814,7 +1814,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1826,7 +1826,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1838,7 +1838,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1850,7 +1850,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1862,7 +1862,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1874,7 +1874,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1886,7 +1886,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1898,7 +1898,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1910,7 +1910,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1922,7 +1922,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1934,7 +1934,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1946,7 +1946,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1958,7 +1958,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1970,7 +1970,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1982,7 +1982,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 5
+    "maxthis": 5
 }
 },
 {
@@ -1994,7 +1994,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 10
+    "maxthis": 10
 }
 },
 {
@@ -2006,7 +2006,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 10
+    "maxthis": 10
 }
 },
 {
@@ -2018,7 +2018,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 10
+    "maxthis": 10
 }
 },
 {
@@ -2030,7 +2030,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 1
+    "maxthis": 1
 }
 },
 {
@@ -2042,7 +2042,7 @@
 },
 "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
 }
 },
 {
@@ -2054,7 +2054,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2066,7 +2066,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2078,7 +2078,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2090,7 +2090,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2102,7 +2102,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2114,7 +2114,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2126,7 +2126,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2138,7 +2138,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2150,7 +2150,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2162,7 +2162,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 },
 {
@@ -2174,7 +2174,7 @@
     },
     "conditions": {
     "dimension": "minecraft:overworld",
-    "maxtotal": 3
+    "maxthis": 3
     }
 }
 ]

@@ -75,7 +75,7 @@
   {
   "dimension": "minecraft:overworld",
   "mob": ["minecraft:pig", "minecraft:cow", "minecraft:sheep", "productivebees:rancher_bee", "autumnity:turkey", "minecraft:rabbit"],
-  "biome": ["minecraft:plains", "byg:allium_fields", "byg:amaranth_fields", "byg:autumnal_valley", "byg:lush_tundra", "byg:wooded_grassland_plateau", "byg:wooded_meadow", "minecraft:forest"],
+  "biome": ["minecraft:plains", "byg:allium_fields", "byg:amaranth_fields", "byg:autumnal_valley", "byg:lush_tundra", "byg:wooded_grassland_plateau", "byg:wooded_meadow", "minecraft:forest", "byg:grassland_plataeu"],
   "result": "default"
   },
   {
