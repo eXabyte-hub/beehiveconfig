@@ -129,4 +129,7 @@ displayTooLargePackets = true
 	printWorldSaves = false
 	#Enable various debugging error logs, like chunkloading etc. , default = false
 	debugOptionsEnabled = false
+	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
+	#Range: -1 ~ 500000
+	singlePlayerWatchDogTimeout = 180000
 

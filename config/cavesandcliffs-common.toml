@@ -11,7 +11,7 @@
 ["World Generation Settings"]
 	#determines the chance of amethyst geodes to spawn.
 	#Note: the lower the number, to common it will be, we don't recommend low values or it may cause laggy world loading
-	#Default: 30
+	#Default: 53
 	#Range: 0 ~ 100
 	amethystGeodeChance = 30
 	#determines if underwater carvers should spawn below oceans

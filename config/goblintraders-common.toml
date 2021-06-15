@@ -1,6 +1,8 @@
 
 #Common configuration settings
 [common]
+	#If true, prevents the trader from despawning if named
+	preventDespawnIfNamed = true
 
 	#Goblin Trader settings
 	[common.goblin_trader]
@@ -16,6 +18,11 @@
 		#The maximum level the trader can spawn
 		#Range: 0 ~ 256
 		traderMaxSpawnLevel = 64
+		#The amount of ticks before the trader will replenish it's trades. Set to -1 to disable restocking
+		#Range: > -1
+		restockDelay = 48000
+		#If true, the goblin will try to hit back a player or mob that hit them first
+		canAttackBack = true
 
 	#Vein Goblin Trader settings
 	[common.vein_goblin_trader]
@@ -31,4 +38,9 @@
 		#The maximum level the trader can spawn
 		#Range: 0 ~ 256
 		traderMaxSpawnLevel = 128
+		#The amount of ticks before the trader will replenish it's trades. Set to -1 to disable restocking
+		#Range: > -1
+		restockDelay = 48000
+		#If true, the goblin will try to hit back a player or mob that hit them first
+		canAttackBack = true
 
