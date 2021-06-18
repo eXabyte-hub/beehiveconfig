@@ -1839,7 +1839,7 @@
 	"Back Button Keybind" = true
 	"Chest Searching" = true
 	"Greener Grass" = true
-	"Improved Mount Hud" = true
+	"Improved Mount Hud" = false
 	"Improved Tooltips" = true
 	"Usage Ticker" = true
 	"Variant Animal Textures" = true
