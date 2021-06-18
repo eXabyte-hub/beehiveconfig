@@ -5,15 +5,15 @@
 	isToolLevelingEnabled = true
 
 	["tool leveling"."leveling config"]
-		axeKillsPerLevel = 10
-		axeLogsPerLevel = 10
-		hoeCropsPerLevel = 20
-		pickaxeBlocksPerLevel = 20
-		pickaxeOresPerLevel = 10
-		swordKillsPerLevel = 10
-		hoeHoesPerLevel = 50
-		shovelBlocksPerLevel = 50
-		axeBlocksPerLevel = 20
+		axeKillsPerLevel = 100
+		axeLogsPerLevel = 100
+		hoeCropsPerLevel = 200
+		pickaxeBlocksPerLevel = 200
+		pickaxeOresPerLevel = 100
+		swordKillsPerLevel = 100
+		hoeHoesPerLevel = 500
+		shovelBlocksPerLevel = 500
+		axeBlocksPerLevel = 200
 
 #whether mod loot spawns in chests
 ["loot spawning"]
