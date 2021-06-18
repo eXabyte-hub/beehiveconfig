@@ -8,21 +8,21 @@
 [worldgen]
 
 	[worldgen.features]
-		#Range: 0 ~ 128
-		"Strawberry Bush generation chance in Plains" = 9
-		#Range: 0 ~ 128
-		"Vanilla Vine generation chance in Savannas" = 6
+		"Banana Plant generation in Beaches" = true
 		#Range: 0 ~ 128
 		"Aduzki Sprouts generation chance in Forests" = 7
 		#Range: 0 ~ 128
-		"Mint pond generation chance in Mountains" = 5
-		"Banana Plant generation in Beaches" = true
+		"Strawberry Bush generation chance in Plains" = 9
 		"Banana Plant generation in Jungles" = true
+		#Range: 0 ~ 128
+		"Mint pond generation chance in Mountains" = 5
+		#Range: 0 ~ 128
+		"Vanilla Vine generation chance in Savannas" = 6
 
 [entities]
 
 	[entities.plantain_spider]
-		"Plantain Spider spawning in Jungles" = true
 		"Plantain Spider spawn from Banana Bundles" = true
 		"Plantain Spiders give Slipping" = true
+		"Plantain Spider spawning in Jungles" = true
 

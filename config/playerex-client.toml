@@ -1,11 +1,11 @@
 
 [HUD]
 	#Set to false to disable the custom HUD.
-	HUD = true
+	HUD = false
 	#Set to false to disable the custom health bar only.
-	enableHealthBar = false
+	enableHealthBar = true
 	#Set to false to disable the food/saturation information provided when AppleSkin is installed.
-	enableFoodInfo = false
+	enableFoodInfo = true
 
 [GUI]
 	#The x-position on the gui of the playerex attributes button.

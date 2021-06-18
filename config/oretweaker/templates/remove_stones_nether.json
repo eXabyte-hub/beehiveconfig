@@ -5,21 +5,21 @@
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     },
     {
       "ore": "minecraft:blackstone",
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     },
     {
       "ore": "minecraft:magma_block",
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     }
   ]
 }

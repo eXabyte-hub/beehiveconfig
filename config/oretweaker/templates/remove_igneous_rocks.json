@@ -5,21 +5,21 @@
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     },
     {
       "ore": "minecraft:diorite",
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     },
     {
       "ore": "minecraft:andesite",
       "minY": -1,
       "maxY": -1,
       "maxVeinSize": -1,
-      "spawnRate": -1
+      "spawnRate": -1.0
     }
   ]
 }

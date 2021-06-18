@@ -1,4 +1,4 @@
-13 possible world types found:
+14 possible world types found:
 - default
 - flat
 - large_biomes
@@ -9,6 +9,7 @@
 - debug_all_block_states
 - betterendforge.world_type
 - cavesandcliffs.caves_and_cliffs
+- byg.world
+- creativecore.fake
 - quark.realistic
 - quark.realistic_large_biomes
-- byg.world

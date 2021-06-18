@@ -20,7 +20,7 @@
 		#A list of biomes where green maple trees can generate naturally.
 		#The list does not include biomes from this mod.
 		"Maple Tree Biomes" = ["minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest"]
-		"Yellow Spotted Forest" = true
-		"Orange Spotted Dark Forest" = true
 		"Red Spotted Taiga" = true
+		"Orange Spotted Dark Forest" = true
+		"Yellow Spotted Forest" = true
 

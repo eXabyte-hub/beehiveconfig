@@ -8,15 +8,15 @@ B:playbackgroundsoundsinworld = 'false';
 B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'true';
-B:playmenumusic = 'false';
-B:showdebugwarnings = 'false';
+B:playmenumusic = 'true';
+B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
 I:defaultguiscale = '-1';
 
 
 ##[customization]
 
-B:showcustomizationbuttons = 'false';
+B:showcustomizationbuttons = 'true';
 
 
 ##[mainmenu]
@@ -25,8 +25,8 @@ S:copyrightposition = 'bottom-right';
 B:hidebranding = 'true';
 S:copyrightcolor = '#ffffff';
 B:hidelogo = 'false';
-B:hiderealmsnotifications = 'true';
-B:hideforgenotifications = 'true';
+B:hiderealmsnotifications = 'false';
+B:hideforgenotifications = 'false';
 
 
 ##[mainmenu_splash]
@@ -47,7 +47,7 @@ S:loadinganimationcolor = '#ffffffff';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
 S:customgameintroskiptext = '';
-B:loadingscreendarkmode = 'true';
+B:loadingscreendarkmode = 'false';
 
 
 ##[minecraftwindow]

@@ -5,7 +5,7 @@
 	# no Repurposed Structures structure to spawn in.
 	# Separate multiple entries with a comma.
 	#   Example: "minecraft:the_end,awesome_mod:awesome_dimension"
-	blacklistedDimensions = "the_bumblezone:the_bumblezone, twilightforest:twilightforest, undergarden:undergarden, the_midnight:the_midnight, theabyss:theabyssdim, theabyss:theabyssiceworld, theabyss:death, theabyss:the_end_of_time, theabyss:the_end_of_time_2, theabyss:dream, theabyss:dream_2, theabyss:dream_3, theabyss:radio, theabyss:theabyssdimgroundlands, theabyss:theabyssdimskylands, lostcities:lostcity"
+	blacklistedDimensions = "the_bumblezone:the_bumblezone, twilightforest:twilightforest, undergarden:undergarden, the_midnight:the_midnight, theabyss:theabyssdim, theabyss:theabyssiceworld, theabyss:death, theabyss:the_end_of_time, theabyss:the_end_of_time_2, theabyss:dream, theabyss:dream_2, theabyss:dream_3, theabyss:radio, theabyss:theabyssdimgroundlands, theabyss:theabyssdimskylands"
 
 	["Mod-wide Impacting Options"."Structure Options"]
 
@@ -86,18 +86,6 @@
 			# Add the ID/resource location of the biome you don't want
 			# RS's Ruins to spawn in. Separate each ID with a comma ,
 			#   Example: "minecraft:ice_spikes,awesome_mod:awesome_biome"
-			blacklistedRuinsBiomes = " "
-			#
-			# How rare are Nether Ruins. 1 for spawning in most chunks and 1001 for none.
-			#Range: 1 ~ 1001
-			ruinsNetherMaxChunkDistance = 35
-			#
-			# Add Nether Ruins to modded Nether category biomes.
-			addRuinsNetherToModdedBiomes = true
-			#
-			# Add the ID/resource location of the biome you don't want
-			# RS's Ruins to spawn in. Separate each ID with a comma ,
-			#   Example: "minecraft:ice_spikes,awesome_mod:awesome_biome"
 			blacklistedUndergroundBastionBiomes = " "
 			#How rare are Underground Bastions in non-ocean and non-beach Overworld biomes.
 			#1 for spawning in most chunks and 10001 for none.
@@ -106,6 +94,18 @@
 			#
 			# Add Underground Bastions to modded non-ocean and non-beach Overworld biomes.
 			addBastionUndergroundToModdedBiomes = true
+			#
+			# Add the ID/resource location of the biome you don't want
+			# RS's Ruins to spawn in. Separate each ID with a comma ,
+			#   Example: "minecraft:ice_spikes,awesome_mod:awesome_biome"
+			blacklistedRuinsBiomes = " "
+			#
+			# How rare are Nether Ruins. 1 for spawning in most chunks and 1001 for none.
+			#Range: 1 ~ 1001
+			ruinsNetherMaxChunkDistance = 35
+			#
+			# Add Nether Ruins to modded Nether category biomes.
+			addRuinsNetherToModdedBiomes = true
 			#How rare are Warm Land Ruins in Plains, Forests, Swamps, and non-snowy Taiga biomes.
 			#
 			#1 for spawning in most chunks and 1001 for none.

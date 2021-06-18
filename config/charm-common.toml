@@ -151,14 +151,14 @@
 "Woodcutters enabled" = true
 
 [AnvilImprovements]
-	#If true, removes the maximum cost of 40 XP when working items on the anvil.
-	"Remove Too Expensive" = true
-	#If true, anvils are 50% less likely to take damage when used.
-	"Stronger anvils" = true
 	#If true, an enchanted book with a level higher than the maximum enchantment level may be applied to an item.
 	"Allow higher enchantment levels" = true
 	#If true, items show their repair cost in their tooltip when looking at the anvil screen.
 	"Show item repair cost" = true
+	#If true, removes the maximum cost of 40 XP when working items on the anvil.
+	"Remove Too Expensive" = true
+	#If true, anvils are 50% less likely to take damage when used.
+	"Stronger anvils" = true
 
 [Atlas]
 	#Allow opening the atlas while it is in the off hand.
@@ -185,10 +185,10 @@
 [BlockOfEnderPearls]
 	#A chorus fruit will teleport you to an ender pearl block within this range (in blocks).
 	"Chorus teleport range" = 8
-	#If true, eating a chorus fruit while in range of an ender pearl block will teleport you to it.
-	"Chorus fruit teleport" = true
 	#If true, a silverfish has a chance to be converted into an endermite when it is next to an ender pearl block.
 	"Convert silverfish to endermite" = true
+	#If true, eating a chorus fruit while in range of an ender pearl block will teleport you to it.
+	"Chorus fruit teleport" = true
 
 [Bookcases]
 	#Additional items that may be placed in bookcases.
@@ -199,10 +199,10 @@
 	"Soul campfires cause damage" = true
 
 [Candles]
-	#The amount of light (out of 15) that a lit candle will provide.
-	"Light level" = 9
 	#If true, candles will be lit when placed rather than needing a flint and steel.
 	"Lit when placed" = false
+	#The amount of light (out of 15) that a lit candle will provide.
+	"Light level" = 9
 	#This module is automatically disabled if Quark is present. Set true to force enable.
 	Override = false
 
@@ -217,24 +217,24 @@
 	"Spawn weight" = 50
 
 [Core]
+	#Set the default glint color for all enchanted items.
+	"Enchantment glint color" = "purple"
+	#If true, replaces vanilla glint color rendering with Charm's, allowing for multiple enchantment glint colors.
+	"Enchantment glint override" = true
 	#If true, routes additional debug messages into the standard game log.
 	"Debug mode" = false
 	#If inventory crafting or inventory ender chest modules are enabled, pressing escape or inventory key returns you to the inventory rather than closing the window.
 	"Inventory button return" = false
-	#If true, replaces vanilla glint color rendering with Charm's, allowing for multiple enchantment glint colors.
-	"Enchantment glint override" = true
-	#Set the default glint color for all enchanted items.
-	"Enchantment glint color" = "purple"
 
 [Crates]
 	#If true, hovering over a crate will show its contents in a tooltip.
 	"Show tooltip" = true
 
 [DecreaseRepairCost]
-	#Number of levels required to reduce repair cost on the anvil.
-	"XP cost" = 0
 	#The tool repair cost will be decreased by this amount.
 	"Repair cost decrease" = 5
+	#Number of levels required to reduce repair cost on the anvil.
+	"XP cost" = 0
 
 [DirtToPath]
 	#This module is automatically disabled if Quark is present. Set true to force enable.
@@ -255,14 +255,14 @@
 [ExtraRecipes]
 	#If true, adds a recipe for Gilded Blackstone using gold nuggets and blackstone.
 	"Gilded Blackstone" = true
-	#If true, adds a recipe for the Trident using prismarine shards and crystals.
-	Trident = true
 	#If true, adds a recipe for Cyan Dye using warped roots.
 	"Cyan Dye" = true
-	#If true, adds a recipe for Green Dye using yellow and blue dyes.
-	"Green Dye" = true
+	#If true, adds a recipe for the Trident using prismarine shards and crystals.
+	Trident = true
 	#If true, adds a recipe for Soul Torches using soul sand/soul soil and sticks.
 	"Soul Torch" = true
+	#If true, adds a recipe for Green Dye using yellow and blue dyes.
+	"Green Dye" = true
 
 [ExtractEnchantments]
 	#Initial XP cost before adding XP equivalent to the enchantment level(s) of the item.
@@ -281,12 +281,12 @@
 	Override = false
 
 [HuskImprovements]
-	#If true, husks can spawn anywhere within their biome rather than just the surface.
-	"Spawn anywhere in biome" = true
 	#If true, husks drop sand when killed.
 	"Drop sand when killed" = true
 	#Maximum sand dropped when husk is killed.
 	"Maximum drops" = 2
+	#If true, husks can spawn anywhere within their biome rather than just the surface.
+	"Spawn anywhere in biome" = true
 
 [InventoryTidying]
 	#This module is automatically disabled if Quark is present. Set true to force enable.
@@ -301,14 +301,14 @@
 	Override = false
 
 [MineshaftImprovements]
-	#If true, stone, ore, lanterns and TNT will spawn inside mineshaft corridors.
-	"Corridor blocks" = true
-	#If true, occasionally there will be piles of ore in mineshaft corridors.
-	"Corridor block piles" = true
 	#If true, precious ores will spawn in the central mineshaft room.
 	"Room blocks" = true
+	#If true, occasionally there will be piles of ore in mineshaft corridors.
+	"Corridor block piles" = true
 	#If true, loot crates will be added to mineshaft corridors.
 	"Add crates" = true
+	#If true, stone, ore, lanterns and TNT will spawn inside mineshaft corridors.
+	"Corridor blocks" = true
 
 [MusicImprovements]
 	#If true, the six Creative music tracks may play in survival mode.
@@ -331,10 +331,10 @@
 	"Enable keybind" = true
 
 [RaidHorns]
-	#Chance (out of 1.0) of a patrol captain dropping a raid horn when killed by the player.
-	"Drop chance" = 0.05
 	#Volume of the raid horn sound effect when used.  1.0 is maximum volume.
 	Volume = 0.75
+	#Chance (out of 1.0) of a patrol captain dropping a raid horn when killed by the player.
+	"Drop chance" = 0.05
 
 [ShulkerBoxTooltips]
 	#This module is automatically disabled if Quark is present. Set true to force enable.
@@ -369,12 +369,12 @@
 	"Enable suspicious stew" = false
 
 [StrayImprovements]
-	#If true, strays can spawn anywhere within their biome rather than just the surface.
-	"Spawn anywhere in biome" = true
-	#If true, strays drop blue ice when killed.
-	"Drop blue ice when killed" = true
 	#Maximum blue ice dropped when stray is killed.
 	"Maximum drops" = 2
+	#If true, strays drop blue ice when killed.
+	"Drop blue ice when killed" = true
+	#If true, strays can spawn anywhere within their biome rather than just the surface.
+	"Spawn anywhere in biome" = true
 
 [Tinted]
 	#Number of levels required to change a tinted item using dye on an anvil.
@@ -393,24 +393,24 @@
 	Override = false
 
 [VariantMobTextures]
-	#If true, cows may spawn with different textures. This is disabled if Quark is present.
-	"Variant cows" = true
+	#If true, wolves may spawn with different textures.
+	"Variant wolves" = true
 	#If true, chickens may spawn with different textures. This is disabled if Quark is present.
 	"Variant chickens" = true
 	#If true, pigs may spawn with different textures. This is disabled if Quark is present.
 	"Variant pigs" = true
-	#If true, sheep face and 'shorn' textures match their wool color. This is disabled if Quark is present.
-	"Variant sheep" = true
 	#If true, snow golems may spawn with different derp faces.
 	"Variant snow golems" = true
-	#If true, squids may spawn with different textures.
-	"Variant squids" = true
-	#If true, wolves may spawn with different textures.
-	"Variant wolves" = true
 	#If true, all animals have a chance to spawn as a rare variant.
 	"Rare variants" = true
 	#Approximately 1 in X chance of a mob spawning as a rare variant.
 	"Rarity of rare variants" = 1000
+	#If true, squids may spawn with different textures.
+	"Variant squids" = true
+	#If true, cows may spawn with different textures. This is disabled if Quark is present.
+	"Variant cows" = true
+	#If true, sheep face and 'shorn' textures match their wool color. This is disabled if Quark is present.
+	"Variant sheep" = true
 	#Some animal textures are disabled if Quark is present. Set true to force enable them.
 	Override = false
 
@@ -419,12 +419,12 @@
 	Override = false
 
 [WanderingTraderImprovements]
+	#If true, makes wandering traders more likely to spawn after one Minecraft day.
+	"Frequent spawning" = false
 	#If true, wandering traders will sell maps to biomes.
 	"Trade biome maps" = true
 	#If true, wandering traders will sell maps to structures.
 	"Trade structure maps" = true
-	#If true, makes wandering traders more likely to spawn after one Minecraft day.
-	"Frequent spawning" = false
 
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.

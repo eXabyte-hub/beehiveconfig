@@ -43,7 +43,7 @@ displayTooLargePackets = true
 ["Entity settings"]
 	#Entity density setting, determines how many entities are spawned overall. 1 = Vanilla default, 0.1 e.g 10x less than vanilla. 10 = 10x more than vanilla, default = 1
 	#Range: 0.01 ~ 100.0
-	entityDensity = 0.5
+	entityDensity = 1.0
 	#Adapt entity speed to tps, makes entities struggle less with lag. default = true
 	adaptiveSpeed = true
 	#Entity spawn interval setting, determines how frequently entities are spawned overall. 1 = Vanilla default, default = 10
@@ -103,13 +103,13 @@ displayTooLargePackets = true
 	fastSpawnRadius = true
 	#Enable fast chunk block ticks, reduces lag on random block ticks in the world but keeps the same growth e.g. on crops. default = true
 	fastChunkBlocks = true
+	#Set how many scheduled blocks are updated each tick, scheduled block updates are for example fluid flowing. default = 1000, vanilla default = 65536
+	#Range: 1 ~ 65536
+	blockTicks = 3000
 	#Enable fast chunk save, unmodified chunks are saved a lot faster and cause less lag when saving to disk. default = true
 	fastChunkSave = true
 	#If true hoppers are causing less lag
 	fasterHoppers = true
-	#Set how many scheduled blocks are updated each tick, scheduled block updates are for example fluid flowing. default = 1000, vanilla default = 65536
-	#Range: 1 ~ 65536
-	blockTicks = 3000
 
 ["Utility settings, debugging and other"]
 	#List of mobs disallowed from spawning: e.g. format :  ["minecraft:zombie", "minecraft:creeper"]
@@ -117,6 +117,9 @@ displayTooLargePackets = true
 	#Set the max login timeout during connection in ticks. 20 ticks = 1 sec, default = 120 seconds
 	#Range: 600 ~ 20000
 	logintimeout = 2400
+	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
+	#Range: -1 ~ 500000
+	singlePlayerWatchDogTimeout = 180000
 	#Set the amount of items at which too many stacked items report their position. Default = 100 items
 	#Range: 2 ~ 1000
 	maxItems = 100
@@ -129,7 +132,4 @@ displayTooLargePackets = true
 	printWorldSaves = false
 	#Enable various debugging error logs, like chunkloading etc. , default = false
 	debugOptionsEnabled = false
-	#Set the watchdog timeout for the integrated server in miliseconds, -1 Disables it. 1 second = 1000 miliseconds, default = 180000
-	#Range: -1 ~ 500000
-	singlePlayerWatchDogTimeout = 180000
 
