@@ -424,10 +424,10 @@
     I:HunterGuideSynergyDamageReduction=50
 
     # Inverts the Shift behaviour of Magnetic Ring and Dislocation Ring. [default: false, synchronized: yes]
-    B:MagnetRingInvertShift=false
+    B:MagnetRingInvertShift=true
 
     # The radius in which Magnetic Ring will attract items. [range: 1 ~ 256, default: 8, synchronized: yes]
-    I:MagnetRingRange=8
+    I:MagnetRingRange=12
 
     # Radius in which Exptrapolated Megaspong absorbs water. Default 4 equals to vanilla sponge [range: 0 ~ 128, default: 4, synchronized: yes]
     I:MegaspongeRadius=4
