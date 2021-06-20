@@ -10,7 +10,7 @@
 	[general.relics]
 
 		[general.relics.general]
-			store_relic_owner = true
+			store_relic_owner = false
 			#Range: 0.0 ~ 2.147483647E9
 			damage_non_relic_owner_amount = 3.0
 
@@ -194,7 +194,7 @@
 
 			[general.relics.stats.magic_mirror]
 				#Range: > 0
-				usage_cooldown = 60
+				usage_cooldown = 120
 
 			[general.relics.stats.midnight_robe]
 				#Range: -2.147483648E9 ~ 2.147483647E9

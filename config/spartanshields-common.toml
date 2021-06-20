@@ -1,7 +1,7 @@
 
 [general]
 	#Set to true to have only Vanilla-based shields enabled. Note that this removes mod-based Shield recipes from the game!
-	vanillaOnly = false
+	vanillaOnly = true
 	#Will force the uncraftable shield tooltip (highlighted in red) that show on some shields to not appear. Useful for modpack makers who wish to change recipes
 	forceDisableUncraftableTooltips = false
 	#Cooldown period for Shield Bashes
