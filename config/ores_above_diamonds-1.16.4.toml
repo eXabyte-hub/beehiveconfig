@@ -8,9 +8,9 @@
 	#Spawn amethysts in the nether? Default = false
 	spawn_amethyst_nether = false
 	#Spawn black opals in the nether? Default = false
-	spawn_black_opal_nether = false
+	spawn_black_opal_nether = true
 	#Spawn amethysts in the end? Default = false
-	spawn_amethyst_end = false
+	spawn_amethyst_end = true
 	#Spawn black opals in the end? Default = false
 	spawn_black_opal_end = false
 	#If nether_ores is enabled, the spawn chance per chunk in the nether will be the chances set for amethyst_chance and black_opal_chance times this multiplier. The final rarity of each ore vein cannot be more common than diamonds. The default value tries to imitate the rarity in the overworld. Default = 1.35.
@@ -33,7 +33,7 @@
 	amethyst_chance = 3
 	#Chance for a Black Opal Ore vein to spawn in a chunk. Default = 9
 	#Range: > 1
-	black_opal_chance = 9
+	black_opal_chance = 3
 	#Maximum vein size for an Amethyst Ore vein. For reference, diamonds have a max vein size of 8. Default = 7
 	#Range: 0 ~ 64
 	amethyst_max_vein_size = 7
