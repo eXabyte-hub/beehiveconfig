@@ -370,7 +370,7 @@
 		#A list of recipe names that should NOT be added in by default
 		"Ignored Recipes" = []
 		"Force Limited Crafting" = false
-		"Disable Recipe Book" = false
+		"Disable Recipe Book" = true
 
 	[tweaks.campfires_boost_elytra]
 		"Boost Strength" = 0.5
@@ -1896,11 +1896,11 @@
 		"Shiny Animal Chance" = 2048
 
 [oddities]
-	Backpack = true
+	Backpack = false
 	Crate = true
 	Magnets = true
 	"Matrix Enchanting" = false
-	Pipes = true
+	Pipes = false
 	"Totem Of Holding" = false
 
 	[oddities.backpack]
