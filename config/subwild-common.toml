@@ -8,17 +8,17 @@
 
 [Features]
 	#Enable to generate stone buttons in rocky cave biomes
-	"Generate Buttons" = true
+	"Generate Buttons" = false
 	#Enable to generate vines in fungal, lush and mossy cave biomes
 	"Generate Vines" = true
 	#Enable to generate puddles in lush, mossy muddy, dead coral cave biomes
-	"Generate Puddles" = true
+	"Generate Puddles" = false
 	#Enable to generate stairs in cave biomes. Slope Generation Chance must also be above 0 for stairs to generate.
-	"Generate Stairs" = true
+	"Generate Stairs" = false
 	#Enable to generate slabs in cave biomes. Slope Generation Chance must also be above 0 for slabs to generate.
-	"Generate Slabs" = true
+	"Generate Slabs" = false
 	#Enable to generate patches (varying heights of slabs and snow) in cave biomes.
-	"Generate Patches" = true
+	"Generate Patches" = false
 	#Enable to generate speleothems in cave biomes.
 	"Generate Speleothems" = true
 
