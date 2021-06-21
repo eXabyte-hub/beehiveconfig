@@ -1,0 +1,200 @@
+
+[general]
+
+	[general.utils]
+
+		[general.utils.sleipnirs_grace]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 3
+			#Range: > 0
+			cost_limit = 0
+			incompats = []
+			#utils.sleipnirs_grace
+			#Range: 0.0 ~ 1.7976931348623157E308
+			cap_base = 1.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			cap_level = 2.0
+			#Range: > 0
+			limiter = 16
+
+		[general.utils.famines_odium]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+			#Range: > 0
+			delay = 1200
+			#Range: 0.0 ~ 1.7976931348623157E308
+			nurishment = 0.0062500000931322575
+
+		[general.utils.thick_pick]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 26
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 75
+			incompats = []
+			#utils.thick_pick
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_base = 2.25
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_level = 1.25
+			items = ["minecraft:diamond;5"]
+
+		[general.utils.rocketman]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 25
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 20
+			incompats = []
+			#utils.rocketman
+			#Range: 0.0 ~ 1.7976931348623157E308
+			duration_base = 0.05
+			#Range: 0.0 ~ 1.7976931348623157E308
+			duration_level = 0.15
+
+		[general.utils.climber]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "COMMON"
+			treasure = true
+			#Range: > 0
+			base_cost = 14
+			#Range: > 0
+			per_level_cost = 8
+			#Range: > 0
+			cost_limit = 30
+			incompats = ["uniquee:swift"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			climb_default = 0.25
+			#Range: 0.0 ~ 1.7976931348623157E308
+			climb_min_waiting = 0.5
+			climb_speed = ["minecraft:ladder;0.1", "minecraft:vine;0.25", "minecraft:scaffolding;0.25"]
+
+		[general.utils.phanes_regret]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = true
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 75
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			chance = 0.125
+
+		[general.utils.poseidons_soul]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 24
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 75
+			incompats = []
+			#Range: > 0
+			base_consumtion = 16
+
+	[general.base]
+
+		[general.base.mounting_aegis]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 24
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 20
+			incompats = []
+
+		[general.base.demeters_blessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 12
+			#Range: > 0
+			per_level_cost = 8
+			#Range: > 0
+			cost_limit = 75
+			incompats = ["uniquee:demeters_soul"]
+

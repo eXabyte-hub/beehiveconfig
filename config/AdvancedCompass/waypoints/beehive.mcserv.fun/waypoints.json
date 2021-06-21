@@ -1,1 +1,1 @@
-{"minecraft:overworld":[],"minecraft:the_nether":[]}
+{"minecraft:overworld":[{"name":"DP(22_32_660)","x":22,"y":32,"z":660,"color":16777215,"icon":"SKULL","max-distance":0,"min-distance":0,"enabled":true},{"name":"DP(20_32_661)","x":20,"y":32,"z":661,"color":16777215,"icon":"SKULL","max-distance":0,"min-distance":0,"enabled":true}],"minecraft:the_nether":[]}

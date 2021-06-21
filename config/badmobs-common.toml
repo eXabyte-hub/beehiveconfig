@@ -1585,20 +1585,6 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
-#Options for the cfm mod.
-[cfm]
-
-	#Spawning options for cfm:seat
-	[cfm.seat]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
 #Options for the goblintraders mod.
 [goblintraders]
 
@@ -1615,97 +1601,6 @@
 
 	#Spawning options for goblintraders:goblin_trader
 	[goblintraders.goblin_trader]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-#Options for the kobolds mod.
-[kobolds]
-
-	#Spawning options for kobolds:kobold_warrior
-	[kobolds.kobold_warrior]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_drowned
-	[kobolds.kobold_drowned]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_enchanter
-	[kobolds.kobold_enchanter]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_child
-	[kobolds.kobold_child]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold
-	[kobolds.kobold]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_classic
-	[kobolds.kobold_classic]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_zombie
-	[kobolds.kobold_zombie]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for kobolds:kobold_james
-	[kobolds.kobold_james]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
@@ -5857,328 +5752,6 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
-#Options for the medieval_craft mod.
-[medieval_craft]
-
-	#Spawning options for medieval_craft:redknight
-	[medieval_craft.redknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:blueknight
-	[medieval_craft.blueknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:yelowknight
-	[medieval_craft.yelowknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:green
-	[medieval_craft.green]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:red_archer
-	[medieval_craft.red_archer]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:blue_archer
-	[medieval_craft.blue_archer]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:yelow_archers
-	[medieval_craft.yelow_archers]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:green_archer
-	[medieval_craft.green_archer]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:red_soldier
-	[medieval_craft.red_soldier]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:blue_soldier
-	[medieval_craft.blue_soldier]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:yelow_soldier
-	[medieval_craft.yelow_soldier]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:green_soldier
-	[medieval_craft.green_soldier]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:redtankknight
-	[medieval_craft.redtankknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:bluetankknight
-	[medieval_craft.bluetankknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:yelowtankknight
-	[medieval_craft.yelowtankknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:greentankknight
-	[medieval_craft.greentankknight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:knight
-	[medieval_craft.knight]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:archer
-	[medieval_craft.archer]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:soldier
-	[medieval_craft.soldier]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:romanlegionary
-	[medieval_craft.romanlegionary]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:roman_centurion
-	[medieval_craft.roman_centurion]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:viking1
-	[medieval_craft.viking1]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:viking2
-	[medieval_craft.viking2]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:entitybulletmusket
-	[medieval_craft.entitybulletmusket]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:entitybulletminigun
-	[medieval_craft.entitybulletminigun]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:entitybulletmusket_with_bayonet
-	[medieval_craft.entitybulletmusket_with_bayonet]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:thief
-	[medieval_craft.thief]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:entitybulletbasicwand
-	[medieval_craft.entitybulletbasicwand]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
-	#Spawning options for medieval_craft:entitybulletthunder_staff
-	[medieval_craft.entitybulletthunder_staff]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
 #Options for the extraboats mod.
 [extraboats]
 
@@ -9392,20 +8965,6 @@
 		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
 		removeAggressively = false
 
-#Options for the sophisticatedbackpacks mod.
-[sophisticatedbackpacks]
-
-	#Spawning options for sophisticatedbackpacks:everlasting_backpack_item
-	[sophisticatedbackpacks.everlasting_backpack_item]
-		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
-		#Should spawners be able to spawn the entity?
-		allowSpawners = true
-		#Should spawn eggs be able to spawn the entity?
-		allowSpawnEggs = true
-		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
-		removeAggressively = false
-
 #Options for the ocean_expansion mod.
 [ocean_expansion]
 
@@ -9521,6 +9080,59 @@
 
 	#Spawning options for ocean_expansion:sunken_golem
 	[ocean_expansion.sunken_golem]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the mcwfurnitures mod.
+[mcwfurnitures]
+
+	#Spawning options for mcwfurnitures:sittable_block
+	[mcwfurnitures.sittable_block]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the villagertools mod.
+[villagertools]
+
+	#Spawning options for villagertools:guard
+	[villagertools.guard]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+	#Spawning options for villagertools:reinforced_golem
+	[villagertools.reinforced_golem]
+		#Should the entity be allowed to spawn normally?
+		allowNormalSpawning = true
+		#Should spawners be able to spawn the entity?
+		allowSpawners = true
+		#Should spawn eggs be able to spawn the entity?
+		allowSpawnEggs = true
+		#When enabled the entity type will be aggresively removed from worlds. This will bypass all other options.
+		removeAggressively = false
+
+#Options for the buildersaddition mod.
+[buildersaddition]
+
+	#Spawning options for buildersaddition:seat
+	[buildersaddition.seat]
 		#Should the entity be allowed to spawn normally?
 		allowNormalSpawning = true
 		#Should spawners be able to spawn the entity?
