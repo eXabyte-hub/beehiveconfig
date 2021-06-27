@@ -1,0 +1,2180 @@
+[
+    {
+        "mob": "alexsmobs:grizzly_bear",
+        "attempts": 50,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5
+    }
+    },
+    {
+        "mob": "alexsmobs:roadrunner",
+        "attempts": 50,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+        },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5
+    }
+    },
+    {
+        "mob": "alexsmobs:bone_serpent",
+        "attempts": 50,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+    },
+    "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5
+    }
+    },
+    {
+        "mob": "alexsmobs:gazelle",
+        "attempts": 50,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+    },
+        "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5
+    }
+    },
+    {
+    "mob": "alexsmobs:crocodile",
+    "attempts": 50,
+    "amount": {
+            "minimum": 1,
+            "maximum": 3
+    },
+    "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5,
+            "inwater": true
+    }
+    },
+    {
+    "mob": "alexsmobs:fly",
+    "attempts": 50,
+    "amount": {
+            "minimum": 1,
+            "maximum": 3
+    },
+    "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 20
+    }
+    },
+    {
+    "mob": "alexsmobs:hummingbird",
+    "attempts": 50,
+    "amount": {
+            "minimum": 1,
+            "maximum": 3
+    },
+    "conditions": {
+            "dimension": "minecraft:overworld",
+            "maxthis": 5
+    }
+    },
+    {
+"mob": "alexsmobs:orca",
+"attempts": 50,
+"amount": {
+        "minimum": 1,
+        "maximum": 3
+    },
+"conditions": {
+        "dimension": "minecraft:overworld",
+        "maxthis": 5,
+        "inwater": true
+    }
+    },
+    {
+"mob": "alexsmobs:sunbird",
+"attempts": 50,
+"amount": {
+        "minimum": 1,
+        "maximum": 3
+},
+"conditions": {
+        "dimension": "minecraft:overworld",
+        "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:gorilla",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:crimson_mosquito",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:rattlesnake",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:endergrade",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:hammerhead_shark",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5,
+    "inwater": true
+}
+},
+{
+"mob": "alexsmobs:lobster",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5,
+    "inwater": true
+}
+},
+{
+"mob": "alexsmobs:komodo_dragon",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:capuchin_monkey",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:centipede",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:warped_toad",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:moose",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:mimicube",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:raccoon",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:blobfish",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:seal",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5,
+    "inwater": true
+}
+},
+{
+"mob": "alexsmobs:cockroach",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:shoebill",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:elephant",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:soul_vulture",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:snow_leopard",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:spectre",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:crow",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:alligator_snapping_turtle",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5,
+    "inwater": true
+}
+},
+{
+"mob": "alexsmobs:mungus",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:mantis_shrimp",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:guster",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:warped_mosco",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:straddler",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:emu",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:platypus",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:dropbear",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:tasmanian_devil",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:kangaroo",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:cachalot_whale",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:leafcutter_ant",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:enderiophage",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:bald_eagle",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:tiger",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "alexsmobs:trantula_hawk",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:hunter",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:head_hunter",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:jungle_creeper",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:lost_miners",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:frozen_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:desert_bandit_archer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:desert_bandit_arbalist",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:desert_bandit_master",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:muddy_pig",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:camel",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:duck",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:zebra",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "betterdefaultbiomes:frog",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 10
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 10
+}
+},
+{
+"mob": "mutantbeasts:mutant_enderman",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:mutant_skeleton",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:creeper_minion",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:mutant_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:spider_pig",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:mutant_creeper",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "mutantbeasts:mutant_snow_golem",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:armoured_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:jungle_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:frozen_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:frozen_zombie",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:armoured_skeleton",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:mossy_skeleton",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:skeleton_vanguard",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:skeleton_horseman",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:necromancer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:armoured_vindicator",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:armoured_pillager",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:royal_guard",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "minecraft_illusioner",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:iceologer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:geomancer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:windcaller",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:vindicator_chef",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:mountaineer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:armoured_mountaineer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:icy_creeper",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:wraith",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:conjured_slime",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:redstone_cube",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:redstone_golem",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:whisperer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:leapleaf",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:poison_quill_vine",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:quick_growing_vine",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeons_mobs:squall_golem",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:cursed_skull",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:ender_beast_archer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:ender_beast_lancer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:grand_rammer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:ghoul",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:ice_elemental",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:jungle_golem",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:magma_slime",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:mummy",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:mundane_slime",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:manhunter",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:nyctoid",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:possessed_armor",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:rammer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dannys_expansion:sporer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "infernalexp:voline",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "infernalexp:shroomline",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "infernalexp:warpbeetle",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "infernalexp:embody",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "infernalexp:basalt_giant",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:archer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:berserker",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:black_iron_golem",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:enchanter",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:furantur",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:hoarder",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:illagerking",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:miner",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "illagers_plus:necromancer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:anthermite",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:nether",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:mimic",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:slimond",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:rogue",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:piranha",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:haunter",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:deadhound",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:crow",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:notehead",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:pice",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:leech",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "dungeonsmod:whirlwind",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "druidcraft:dreadfish",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "druidcraft:beetle",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "druidcraft:luna_moth",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:dye_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:lumber_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:quarry_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:rancher_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:hoarder_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:farmer_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:creeper_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:cupid_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:ashy_mining_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:blue_banded_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:green_carpenter_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:yellow_black_carpenter_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:chocolate_mining_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:digger_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:leafcutter_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:mason_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:neon_cuckoo_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:nomad_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:reed_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:resin_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:sweaty_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "productivebees:bumble_bee",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "enviromental:duck",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "enviromental:deer",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 3
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 5
+}
+},
+{
+"mob": "enviromental:frog",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 10
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 10
+}
+},
+{
+"mob": "enviromental:slabfish",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 10
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 10
+}
+},
+{
+"mob": "upgrade_aquatic:perch",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 10
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 10
+}
+},
+{
+"mob": "upgrade_aquatic:pike",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 1
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 1
+}
+},
+{
+"mob": "upgrade_aquatic:hammerhead_shark",
+"attempts": 50,
+"amount": {
+    "minimum": 1,
+    "maximum": 1
+},
+"conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+}
+},
+{
+    "mob": "upgrade_aquatic:thrasher",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "upgrade_aquatic:great_thrasher",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:pig",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:cow",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:sheep",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:rabbit",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:squid",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:guardian",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:salmon",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:cod",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+},
+{
+    "mob": "minecraft:polar_bear",
+    "attempts": 50,
+    "amount": {
+    "minimum": 1,
+    "maximum": 1
+    },
+    "conditions": {
+    "dimension": "minecraft:overworld",
+    "maxthis": 3
+    }
+}
+]

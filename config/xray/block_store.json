@@ -1,0 +1,1038 @@
+[
+  {
+    "name": "Yellow Terracotta Diamond Ore",
+    "blockName": "subwild:yellow_terracotta_diamond_ore",
+    "order": 41,
+    "color": 9321482,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Iron Ore",
+    "blockName": "subwild:white_terracotta_iron_ore",
+    "order": 88,
+    "color": 15547226,
+    "drawing": false
+  },
+  {
+    "name": "Lapis Ore",
+    "blockName": "atum:lapis_ore",
+    "order": 98,
+    "color": 6891334,
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "blockName": "minecraft:diamond_ore",
+    "order": 32,
+    "color": 9397865,
+    "drawing": true
+  },
+  {
+    "name": "Basalt Iron Ore",
+    "blockName": "subwild:basalt_iron_ore",
+    "order": 96,
+    "color": 10145998,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Iron Ore",
+    "blockName": "subwild:smooth_sandstone_iron_ore",
+    "order": 84,
+    "color": 5851195,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Lapis Ore",
+    "blockName": "subwild:red_sandstone_lapis_ore",
+    "order": 101,
+    "color": 4535969,
+    "drawing": false
+  },
+  {
+    "name": "Kunzite Ore",
+    "blockName": "natureminerals:kunzite_ore",
+    "order": 0,
+    "color": 6743712,
+    "drawing": false
+  },
+  {
+    "name": "Cryptic Redstone Ore",
+    "blockName": "byg:cryptic_redstone_ore",
+    "order": 129,
+    "color": 13839079,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Redstone Ore",
+    "blockName": "subwild:sandstone_redstone_ore",
+    "order": 115,
+    "color": 3109661,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Coal Ore",
+    "blockName": "subwild:blackstone_coal_ore",
+    "order": 30,
+    "color": 3179470,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Diamond Ore",
+    "blockName": "subwild:light_gray_terracotta_diamond_ore",
+    "order": 42,
+    "color": 5483486,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Diamond Ore",
+    "blockName": "subwild:sandstone_diamond_ore",
+    "order": 34,
+    "color": 6264068,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Iron Ore",
+    "blockName": "subwild:red_terracotta_iron_ore",
+    "order": 93,
+    "color": 7686902,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Coal Ore",
+    "blockName": "subwild:brown_terracotta_coal_ore",
+    "order": 27,
+    "color": 11219489,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Redstone Ore",
+    "blockName": "subwild:light_gray_terracotta_redstone_ore",
+    "order": 123,
+    "color": 5904013,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Iron Ore",
+    "blockName": "subwild:red_sandstone_iron_ore",
+    "order": 85,
+    "color": 9898666,
+    "drawing": false
+  },
+  {
+    "name": "Nether Quartz Ore",
+    "blockName": "minecraft:nether_quartz_ore",
+    "order": 130,
+    "color": 2548958,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Diamond Ore",
+    "blockName": "subwild:orange_terracotta_diamond_ore",
+    "order": 40,
+    "color": 12526143,
+    "drawing": false
+  },
+  {
+    "name": "Moonstone Ore",
+    "blockName": "druidcraft:moonstone_ore",
+    "order": 144,
+    "color": 12395202,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Redstone Ore",
+    "blockName": "subwild:basalt_redstone_ore",
+    "order": 128,
+    "color": 5248671,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Coal Ore",
+    "blockName": "cavesandcliffs:deepslate_coal_ore",
+    "order": 8,
+    "color": 5322036,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Gold Ore",
+    "blockName": "subwild:blackstone_gold_ore",
+    "order": 79,
+    "color": 2518437,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Gold Ore",
+    "blockName": "subwild:red_terracotta_gold_ore",
+    "order": 77,
+    "color": 14739960,
+    "drawing": false
+  },
+  {
+    "name": "Budding Ametrine Ore",
+    "blockName": "byg:budding_ametrine_ore",
+    "order": 135,
+    "color": 6306709,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Diamond Ore",
+    "blockName": "subwild:basalt_diamond_ore",
+    "order": 47,
+    "color": 6219966,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Emerald Ore",
+    "blockName": "subwild:white_terracotta_emerald_ore",
+    "order": 55,
+    "color": 8539407,
+    "drawing": false
+  },
+  {
+    "name": "Ice Iron Ore",
+    "blockName": "subwild:ice_iron_ore",
+    "order": 94,
+    "color": 14356400,
+    "drawing": false
+  },
+  {
+    "name": "Emerald Ore",
+    "blockName": "minecraft:emerald_ore",
+    "order": 48,
+    "color": 11576946,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Redstone Ore",
+    "blockName": "subwild:terracotta_redstone_ore",
+    "order": 119,
+    "color": 5140797,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Redstone Ore",
+    "blockName": "subwild:orange_terracotta_redstone_ore",
+    "order": 121,
+    "color": 3944550,
+    "drawing": false
+  },
+  {
+    "name": "Amber Ore",
+    "blockName": "druidcraft:amber_ore",
+    "order": 143,
+    "color": 8271207,
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "blockName": "atum:redstone_ore",
+    "order": 114,
+    "color": 11489283,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Coal Ore",
+    "blockName": "subwild:terracotta_coal_ore",
+    "order": 22,
+    "color": 3328721,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Lapis Ore",
+    "blockName": "cavesandcliffs:deepslate_lapis_ore",
+    "order": 15,
+    "color": 14496558,
+    "drawing": false
+  },
+  {
+    "name": "Biotite Ore",
+    "blockName": "quark:biotite_ore",
+    "order": 147,
+    "color": 11988655,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Gold Ore",
+    "blockName": "subwild:smooth_sandstone_gold_ore",
+    "order": 68,
+    "color": 15324709,
+    "drawing": false
+  },
+  {
+    "name": "Nether Cobalt Ore",
+    "blockName": "tconstruct:cobalt_ore",
+    "order": 145,
+    "color": 8610795,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Diamond Ore",
+    "blockName": "subwild:red_terracotta_diamond_ore",
+    "order": 44,
+    "color": 3272670,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Coal Ore",
+    "blockName": "subwild:red_sandstone_coal_ore",
+    "order": 20,
+    "color": 6173837,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Emerald Ore",
+    "blockName": "subwild:sandstone_emerald_ore",
+    "order": 50,
+    "color": 11103760,
+    "drawing": false
+  },
+  {
+    "name": "Ice Lapis Ore",
+    "blockName": "subwild:ice_lapis_ore",
+    "order": 110,
+    "color": 4698441,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Lapis Ore",
+    "blockName": "subwild:white_terracotta_lapis_ore",
+    "order": 104,
+    "color": 1351351,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Copper Ore",
+    "blockName": "cavesandcliffs:deepslate_copper_ore",
+    "order": 11,
+    "color": 15695099,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Gold Ore",
+    "blockName": "cavesandcliffs:deepslate_gold_ore",
+    "order": 10,
+    "color": 8339871,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Lapis Ore",
+    "blockName": "subwild:sandstone_lapis_ore",
+    "order": 99,
+    "color": 16325309,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Coal Ore",
+    "blockName": "subwild:basalt_coal_ore",
+    "order": 31,
+    "color": 6377155,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Coal Ore",
+    "blockName": "subwild:orange_terracotta_coal_ore",
+    "order": 24,
+    "color": 268502,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Emerald Ore",
+    "blockName": "subwild:basalt_emerald_ore",
+    "order": 63,
+    "color": 6278122,
+    "drawing": false
+  },
+  {
+    "name": "Gold Ore",
+    "blockName": "atum:gold_ore",
+    "order": 66,
+    "color": 10928868,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Redstone Ore",
+    "blockName": "subwild:smooth_sandstone_redstone_ore",
+    "order": 116,
+    "color": 8752838,
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "blockName": "minecraft:redstone_ore",
+    "order": 113,
+    "color": 16595480,
+    "drawing": false
+  },
+  {
+    "name": "Thallasium Ore",
+    "blockName": "betterendforge:thallasium_ore",
+    "order": 6,
+    "color": 9597051,
+    "drawing": false
+  },
+  {
+    "name": "Lignite Ore",
+    "blockName": "byg:lignite_ore",
+    "order": 136,
+    "color": 152332,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Emerald Ore",
+    "blockName": "subwild:light_gray_terracotta_emerald_ore",
+    "order": 58,
+    "color": 11281999,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Redstone Ore",
+    "blockName": "subwild:smooth_red_sandstone_redstone_ore",
+    "order": 118,
+    "color": 15903964,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Emerald Ore",
+    "blockName": "subwild:red_sandstone_emerald_ore",
+    "order": 52,
+    "color": 9206631,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Emerald Ore",
+    "blockName": "subwild:terracotta_emerald_ore",
+    "order": 54,
+    "color": 12387273,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Gold Ore",
+    "blockName": "subwild:brown_terracotta_gold_ore",
+    "order": 76,
+    "color": 4405871,
+    "drawing": false
+  },
+  {
+    "name": "Ice Gold Ore",
+    "blockName": "subwild:ice_gold_ore",
+    "order": 78,
+    "color": 8025861,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Iron Ore",
+    "blockName": "subwild:blackstone_iron_ore",
+    "order": 95,
+    "color": 4186156,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Gold Ore",
+    "blockName": "subwild:smooth_red_sandstone_gold_ore",
+    "order": 70,
+    "color": 15486556,
+    "drawing": false
+  },
+  {
+    "name": "Lead Ore",
+    "blockName": "eidolon:lead_ore",
+    "order": 138,
+    "color": 360798,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Gold Ore",
+    "blockName": "subwild:terracotta_gold_ore",
+    "order": 71,
+    "color": 8760110,
+    "drawing": false
+  },
+  {
+    "name": "Astrite Ore",
+    "blockName": "natureminerals:astrite_ore",
+    "order": 3,
+    "color": 6902379,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Lapis Ore",
+    "blockName": "subwild:smooth_red_sandstone_lapis_ore",
+    "order": 102,
+    "color": 9132098,
+    "drawing": false
+  },
+  {
+    "name": "Copper Ore",
+    "blockName": "iceandfire:copper_ore",
+    "order": 141,
+    "color": 8840390,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Diamond Ore",
+    "blockName": "subwild:white_terracotta_diamond_ore",
+    "order": 39,
+    "color": 1766392,
+    "drawing": false
+  },
+  {
+    "name": "Emerald Ore",
+    "blockName": "atum:emerald_ore",
+    "order": 49,
+    "color": 7562629,
+    "drawing": false
+  },
+  {
+    "name": "Amber Ore",
+    "blockName": "betterendforge:amber_ore",
+    "order": 5,
+    "color": 3232423,
+    "drawing": false
+  },
+  {
+    "name": "Yellow Terracotta Lapis Ore",
+    "blockName": "subwild:yellow_terracotta_lapis_ore",
+    "order": 106,
+    "color": 12593462,
+    "drawing": false
+  },
+  {
+    "name": "Copper Ore",
+    "blockName": "tconstruct:copper_ore",
+    "order": 146,
+    "color": 4861095,
+    "drawing": false
+  },
+  {
+    "name": "Coal Ore",
+    "blockName": "minecraft:coal_ore",
+    "order": 16,
+    "color": 3122581,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Lapis Ore",
+    "blockName": "subwild:orange_terracotta_lapis_ore",
+    "order": 105,
+    "color": 1605008,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Diamond Ore",
+    "blockName": "subwild:smooth_sandstone_diamond_ore",
+    "order": 35,
+    "color": 2690596,
+    "drawing": false
+  },
+  {
+    "name": "Yellow Terracotta Emerald Ore",
+    "blockName": "subwild:yellow_terracotta_emerald_ore",
+    "order": 57,
+    "color": 5688341,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Gold Ore",
+    "blockName": "subwild:white_terracotta_gold_ore",
+    "order": 72,
+    "color": 5657697,
+    "drawing": false
+  },
+  {
+    "name": "Lapis Lazuli Ore",
+    "blockName": "minecraft:lapis_ore",
+    "order": 97,
+    "color": 15563149,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Diamond Ore",
+    "blockName": "subwild:smooth_red_sandstone_diamond_ore",
+    "order": 37,
+    "color": 9608156,
+    "drawing": false
+  },
+  {
+    "name": "Ender Ore",
+    "blockName": "betterendforge:ender_ore",
+    "order": 4,
+    "color": 3804942,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Diamond Ore",
+    "blockName": "subwild:terracotta_diamond_ore",
+    "order": 38,
+    "color": 13600245,
+    "drawing": false
+  },
+  {
+    "name": "Ice Redstone Ore",
+    "blockName": "subwild:ice_redstone_ore",
+    "order": 126,
+    "color": 3862530,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Iron Ore",
+    "blockName": "subwild:light_gray_terracotta_iron_ore",
+    "order": 91,
+    "color": 2778812,
+    "drawing": false
+  },
+  {
+    "name": "Ice Diamond Ore",
+    "blockName": "subwild:ice_diamond_ore",
+    "order": 45,
+    "color": 5730240,
+    "drawing": false
+  },
+  {
+    "name": "Yellow Terracotta Iron Ore",
+    "blockName": "subwild:yellow_terracotta_iron_ore",
+    "order": 90,
+    "color": 1279070,
+    "drawing": false
+  },
+  {
+    "name": "Ancient Debris",
+    "blockName": "minecraft:ancient_debris",
+    "order": 131,
+    "color": 6779121,
+    "drawing": true
+  },
+  {
+    "name": "Blackstone Diamond Ore",
+    "blockName": "subwild:blackstone_diamond_ore",
+    "order": 46,
+    "color": 6552541,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Lapis Ore",
+    "blockName": "subwild:terracotta_lapis_ore",
+    "order": 103,
+    "color": 3226512,
+    "drawing": false
+  },
+  {
+    "name": "Silver Ore",
+    "blockName": "iceandfire:silver_ore",
+    "order": 139,
+    "color": 4675749,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Emerald Ore",
+    "blockName": "subwild:brown_terracotta_emerald_ore",
+    "order": 59,
+    "color": 9571320,
+    "drawing": false
+  },
+  {
+    "name": "Coal Ore",
+    "blockName": "atum:coal_ore",
+    "order": 17,
+    "color": 15763842,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Iron Ore",
+    "blockName": "subwild:orange_terracotta_iron_ore",
+    "order": 89,
+    "color": 13677211,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Lapis Ore",
+    "blockName": "subwild:smooth_sandstone_lapis_ore",
+    "order": 100,
+    "color": 14482724,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Gold Ore",
+    "blockName": "subwild:orange_terracotta_gold_ore",
+    "order": 73,
+    "color": 756686,
+    "drawing": false
+  },
+  {
+    "name": "Ice Emerald Ore",
+    "blockName": "subwild:ice_emerald_ore",
+    "order": 61,
+    "color": 10422625,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Redstone Ore",
+    "blockName": "subwild:brown_terracotta_redstone_ore",
+    "order": 124,
+    "color": 2670779,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Iron Ore",
+    "blockName": "subwild:sandstone_iron_ore",
+    "order": 83,
+    "color": 11387928,
+    "drawing": false
+  },
+  {
+    "name": "Gold Ore",
+    "blockName": "minecraft:gold_ore",
+    "order": 64,
+    "color": 5982764,
+    "drawing": false
+  },
+  {
+    "name": "Pendorite Ore",
+    "blockName": "byg:pendorite_ore",
+    "order": 137,
+    "color": 4370528,
+    "drawing": false
+  },
+  {
+    "name": "Yellow Terracotta Gold Ore",
+    "blockName": "subwild:yellow_terracotta_gold_ore",
+    "order": 74,
+    "color": 8425189,
+    "drawing": false
+  },
+  {
+    "name": "Yellow Terracotta Redstone Ore",
+    "blockName": "subwild:yellow_terracotta_redstone_ore",
+    "order": 122,
+    "color": 7126892,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Coal Ore",
+    "blockName": "subwild:smooth_red_sandstone_coal_ore",
+    "order": 21,
+    "color": 11324852,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Redstone Ore",
+    "blockName": "subwild:red_sandstone_redstone_ore",
+    "order": 117,
+    "color": 640477,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Coal Ore",
+    "blockName": "subwild:red_terracotta_coal_ore",
+    "order": 28,
+    "color": 8555344,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Lapis Ore",
+    "blockName": "subwild:brown_terracotta_lapis_ore",
+    "order": 108,
+    "color": 12530300,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Redstone Ore",
+    "blockName": "subwild:red_terracotta_redstone_ore",
+    "order": 125,
+    "color": 16695025,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Lapis Ore",
+    "blockName": "subwild:blackstone_lapis_ore",
+    "order": 111,
+    "color": 6102151,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Lapis Ore",
+    "blockName": "subwild:light_gray_terracotta_lapis_ore",
+    "order": 107,
+    "color": 10402022,
+    "drawing": false
+  },
+  {
+    "name": "Nether Gold Ore",
+    "blockName": "minecraft:nether_gold_ore",
+    "order": 65,
+    "color": 7394000,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Diamond Ore",
+    "blockName": "subwild:brown_terracotta_diamond_ore",
+    "order": 43,
+    "color": 15002843,
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "blockName": "minecraft:iron_ore",
+    "order": 81,
+    "color": 1780350,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Emerald Ore",
+    "blockName": "subwild:smooth_red_sandstone_emerald_ore",
+    "order": 53,
+    "color": 14118862,
+    "drawing": false
+  },
+  {
+    "name": "Nebu Ore",
+    "blockName": "atum:nebu_ore",
+    "order": 132,
+    "color": 5355621,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Lapis Ore",
+    "blockName": "subwild:basalt_lapis_ore",
+    "order": 112,
+    "color": 2116088,
+    "drawing": false
+  },
+  {
+    "name": "Copper Ore",
+    "blockName": "cavesandcliffs:copper_ore",
+    "order": 7,
+    "color": 5758583,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Diamond Ore",
+    "blockName": "cavesandcliffs:deepslate_diamond_ore",
+    "order": 12,
+    "color": 15579778,
+    "drawing": true
+  },
+  {
+    "name": "Yellow Terracotta Coal Ore",
+    "blockName": "subwild:yellow_terracotta_coal_ore",
+    "order": 25,
+    "color": 6851788,
+    "drawing": false
+  },
+  {
+    "name": "Brown Terracotta Iron Ore",
+    "blockName": "subwild:brown_terracotta_iron_ore",
+    "order": 92,
+    "color": 272495,
+    "drawing": false
+  },
+  {
+    "name": "Ice Coal Ore",
+    "blockName": "subwild:ice_coal_ore",
+    "order": 29,
+    "color": 4807934,
+    "drawing": false
+  },
+  {
+    "name": "Stibnite Ore",
+    "blockName": "natureminerals:stibnite_ore",
+    "order": 2,
+    "color": 14838620,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Coal Ore",
+    "blockName": "subwild:white_terracotta_coal_ore",
+    "order": 23,
+    "color": 1061962,
+    "drawing": false
+  },
+  {
+    "name": "White Terracotta Redstone Ore",
+    "blockName": "subwild:white_terracotta_redstone_ore",
+    "order": 120,
+    "color": 16106489,
+    "drawing": false
+  },
+  {
+    "name": "Sapphire Ore",
+    "blockName": "iceandfire:sapphire_ore",
+    "order": 140,
+    "color": 2627593,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Redstone Ore",
+    "blockName": "subwild:blackstone_redstone_ore",
+    "order": 127,
+    "color": 15721617,
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "blockName": "atum:diamond_ore",
+    "order": 33,
+    "color": 8219423,
+    "drawing": false
+  },
+  {
+    "name": "Orange Terracotta Emerald Ore",
+    "blockName": "subwild:orange_terracotta_emerald_ore",
+    "order": 56,
+    "color": 14233454,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Red Sandstone Iron Ore",
+    "blockName": "subwild:smooth_red_sandstone_iron_ore",
+    "order": 86,
+    "color": 5502120,
+    "drawing": false
+  },
+  {
+    "name": "Uvarovite Ore",
+    "blockName": "natureminerals:uvarovite_ore",
+    "order": 1,
+    "color": 99516,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Diamond Ore",
+    "blockName": "subwild:red_sandstone_diamond_ore",
+    "order": 36,
+    "color": 10938683,
+    "drawing": false
+  },
+  {
+    "name": "Basalt Gold Ore",
+    "blockName": "subwild:basalt_gold_ore",
+    "order": 80,
+    "color": 13307297,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Coal Ore",
+    "blockName": "subwild:light_gray_terracotta_coal_ore",
+    "order": 26,
+    "color": 7187636,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Coal Ore",
+    "blockName": "subwild:smooth_sandstone_coal_ore",
+    "order": 19,
+    "color": 15793156,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Gold Ore",
+    "blockName": "subwild:sandstone_gold_ore",
+    "order": 67,
+    "color": 12741941,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Lapis Ore",
+    "blockName": "subwild:red_terracotta_lapis_ore",
+    "order": 109,
+    "color": 10852445,
+    "drawing": false
+  },
+  {
+    "name": "Red Sandstone Gold Ore",
+    "blockName": "subwild:red_sandstone_gold_ore",
+    "order": 69,
+    "color": 4216938,
+    "drawing": false
+  },
+  {
+    "name": "Light Gray Terracotta Gold Ore",
+    "blockName": "subwild:light_gray_terracotta_gold_ore",
+    "order": 75,
+    "color": 14987438,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Redstone Ore",
+    "blockName": "cavesandcliffs:deepslate_redstone_ore",
+    "order": 13,
+    "color": 7043049,
+    "drawing": false
+  },
+  {
+    "name": "Terracotta Iron Ore",
+    "blockName": "subwild:terracotta_iron_ore",
+    "order": 87,
+    "color": 2567731,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Emerald Ore",
+    "blockName": "cavesandcliffs:deepslate_emerald_ore",
+    "order": 14,
+    "color": 14991086,
+    "drawing": false
+  },
+  {
+    "name": "Sandstone Coal Ore",
+    "blockName": "subwild:sandstone_coal_ore",
+    "order": 18,
+    "color": 4292745,
+    "drawing": false
+  },
+  {
+    "name": "Ametrine Ore",
+    "blockName": "byg:ametrine_ore",
+    "order": 133,
+    "color": 4344258,
+    "drawing": false
+  },
+  {
+    "name": "Smooth Sandstone Emerald Ore",
+    "blockName": "subwild:smooth_sandstone_emerald_ore",
+    "order": 51,
+    "color": 3680838,
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "blockName": "atum:iron_ore",
+    "order": 82,
+    "color": 2090703,
+    "drawing": false
+  },
+  {
+    "name": "Anthracite Ore",
+    "blockName": "byg:anthracite_ore",
+    "order": 134,
+    "color": 6040722,
+    "drawing": false
+  },
+  {
+    "name": "Blackstone Emerald Ore",
+    "blockName": "subwild:blackstone_emerald_ore",
+    "order": 62,
+    "color": 788081,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Iron Ore",
+    "blockName": "cavesandcliffs:deepslate_iron_ore",
+    "order": 9,
+    "color": 7581206,
+    "drawing": false
+  },
+  {
+    "name": "Amethyst Ore",
+    "blockName": "iceandfire:amythest_ore",
+    "order": 142,
+    "color": 8832041,
+    "drawing": false
+  },
+  {
+    "name": "Red Terracotta Emerald Ore",
+    "blockName": "subwild:red_terracotta_emerald_ore",
+    "order": 60,
+    "color": 1463024,
+    "drawing": false
+  }
+]

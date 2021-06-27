@@ -1,0 +1,19 @@
+enableDebugCommands = false
+
+#General configuration settings
+[general]
+	scaledFallDamage = true
+	scaledMotion = true
+	scaledReach = true
+	scaledAttack = true
+	scaledDefense = true
+	scaledHealth = true
+	scaledItemDrops = true
+	scaledProjectiles = true
+	scaledExplosions = true
+	keepAllScalesOnRespawn = false
+	accurateNetherPortals = true
+	scalesKeptOnRespawn = []
+	#Range: 16.0 ~ 128.0
+	largeScaleCollisionThreshold = 26.0
+

@@ -1,0 +1,74 @@
+
+[general]
+
+	[general.battle]
+
+		[general.battle.lunatic_despair]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = true
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			bonus_damage = 0.2
+			#Range: 0.0 ~ 1.7976931348623157E308
+			self_damage = 0.25
+
+		[general.battle.celestial_blessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 14
+			#Range: > 0
+			per_level_cost = 5
+			#Range: > 0
+			cost_limit = 15
+			incompats = ["uniuqee:climate_tranquility"]
+			#battle.celestial_blessing
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_bonus_base = 0.02
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_bonus_level = 0.06
+
+		[general.battle.ares_fragment]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 4
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 25
+			#Range: > 0
+			per_level_cost = 15
+			#Range: > 0
+			cost_limit = 10
+			incompats = ["uniuqee:berserk", "uniuqee:alchemistsgrace", "uniuqee:ender_mending"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			armor_percentage = 0.6
+			#Range: 0.0 ~ 1.7976931348623157E308
+			base_chance = 0.5
+			#Range: 0.0 ~ 1.7976931348623157E308
+			chance_multiplier = 3.258
+

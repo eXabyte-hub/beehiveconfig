@@ -1,0 +1,768 @@
+
+[general]
+
+	[general.base]
+
+		[general.base.berserk]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 22
+			incompats = ["uniquee:swiftblade", "uniquee:spartanweapon"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 0.125
+
+		[general.base.ameliorated_sharpness]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 18
+			incompats = ["minecraft:sharpness", "minecraft:bane_of_arthropods", "minecraft:smite", "uniquee:arthropods", "uniquee:all", "uniquee:undead"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 1.0
+
+		[general.base.ameliorated_smite]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 16
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 14
+			incompats = ["minecraft:sharpness", "minecraft:bane_of_arthropods", "minecraft:smite", "uniquee:arthropods", "uniquee:all", "uniquee:undead"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 3.0
+
+		[general.base.ameliorated_arthropods]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 16
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 14
+			incompats = ["minecraft:sharpness", "minecraft:bane_of_arthropods", "minecraft:smite", "uniquee:arthropods", "uniquee:all", "uniquee:undead"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 3.0
+
+		[general.base.vitae]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 7
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			health_boost = 1.0
+
+		[general.base.swift]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 14
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 18
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_bonus_base = 0.03
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_bonus_level = 0.06
+
+		[general.base.sages_blessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "COMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 10
+			incompats = ["uniquee:fastfood", "minecraft:silk_touch"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			xp_boost = 0.2
+
+		[general.base.ender_eyes]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 5
+			incompats = []
+
+		[general.base.focus_impact]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 17
+			incompats = ["uniquee:swiftblade"]
+			#Important Info: Turning the Scalar to 0.639 or below will end up Healing the enemy with the Bonus Damage instead of Damaging on LvL 3 for a 1.6 Attack Speed(Default Attack Speed). so keep it above
+			#Range: 0.0 ~ 1.7976931348623157E308
+			damage = 1.05
+
+		[general.base.bone_crusher]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 18
+			#Range: > 0
+			per_level_cost = 5
+			#Range: > 0
+			cost_limit = 50
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 0.2
+
+		[general.base.ranged]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 4
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "COMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 12
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 75
+			incompats = ["minecraft:sweeping"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			range_base = 1.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			range_level = 0.25
+			#Range: 0.0 ~ 1.7976931348623157E308
+			reduction_base = 0.2
+			#Range: 0.0 ~ 1.7976931348623157E308
+			reduction_level = 0.4
+
+		[general.base.treasurers_eyes]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 28
+			#Range: > 0
+			per_level_cost = 6
+			#Range: > 0
+			cost_limit = 10
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			range_base = 5.0
+			#Range: 0.0 ~ 1.7976931348623157E308
+			range_level = 9.0
+
+		[general.base.swiftblade]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 26
+			#Range: > 0
+			per_level_cost = 0
+			#Range: > 0
+			cost_limit = 30
+			incompats = ["uniquee:berserk"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 1.2
+
+		[general.base.spartanweapon]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 5
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 11
+			#Range: > 0
+			per_level_cost = 3
+			#Range: > 0
+			cost_limit = 10
+			incompats = ["uniquee:berserk", "uniquee:perpetualstrike"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 0.075
+
+		[general.base.perpetualstrike]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 26
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 30
+			incompats = ["uniquee:spartanweapon"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 0.075
+
+		[general.base.climate_tranquility]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 12
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			speed_scale = 0.1
+			#Range: > 0
+			slow_time = 30
+			#Range: 0.0 ~ 1.7976931348623157E308
+			attack_scale = 0.1
+			#Range: > 0
+			burn_time = 1
+
+		[general.base.momentum]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 5
+			#Range: > 0
+			cost_limit = 75
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 2.5
+			#Range: > 0
+			cap = 2
+			#Range: > 0
+			max_delay = 40
+
+		[general.base.ender_mending]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 26
+			#Range: > 0
+			per_level_cost = 8
+			#Range: > 0
+			cost_limit = 5
+			incompats = ["minecraft:mending", "uniquee:endermarksmen", "uniquee:warriorsgrace", "uniquee:ecological"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			absorbtion_ratio_base = 0.25
+			#Range: 0.0 ~ 1.7976931348623157E308
+			absorbtion_ratio_level = 0.25
+			#Range: > 0
+			limit = 250
+
+		[general.base.smart_ass]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 28
+			#Range: > 0
+			per_level_cost = 6
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+			#Range: > 0
+			range_base = 2
+			#Range: > 0
+			range_level = 3
+
+		[general.base.warriorsgrace]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 22
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 30
+			incompats = ["uniquee:ecological", "uniquee:alchemistsgrace", "uniquee:naturesgrace", "minecraft:mending", "minecraft:unbreaking"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			durability_gain = 1.1
+
+		[general.base.endermarksmen]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 28
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 16
+			incompats = ["uniquee:ecological", "minecraft:mending", "minecraft:infinity"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 2.0
+
+		[general.base.aresblessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 28
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 32
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scalar = 6.0
+
+		[general.base.alchemistsgrace]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 4
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 3
+			#Range: > 0
+			cost_limit = 18
+			incompats = ["uniquee:warriorsgrace", "uniquee:naturesgrace"]
+			#Which Potion Effects should be applied. Format: Potion;StartEnchantmentLvL;StartPotionLvL;PotionLvLPerEnchantLvL;BaseDuration
+			effects = ["minecraft:regeneration;1;0;0.25;0.5;true;false", "minecraft:speed;1;0;1.0;3;true;true", "minecraft:haste;2;0;1.0;2;true;true", "minecraft:speed;2;1;0.5;3.5;true;true", "minecraft:resistance;3;0;1.0;1;true;false", "minecraft:haste;3;1;0.5;3;true;true", "minecraft:strength;4;0;1.0;1;true;false", "minecraft:resistance;4;1;0.25;1.25;true;false", "minecraft:fire_resistance;4;0;1.0;1.5;false;true", "minecraft:strength;5;1;0.2;1.5;true;false"]
+
+		[general.base.cloudwalker]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 4
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 16
+			#Range: > 0
+			per_level_cost = 3
+			#Range: > 0
+			cost_limit = 16
+			incompats = []
+			#Range: > 0
+			duration_base = 8
+			#Range: > 0
+			duration_level = 28
+
+		[general.base.fastfood]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 14
+			#Range: > 0
+			per_level_cost = 6
+			#Range: > 0
+			cost_limit = 10
+			incompats = []
+			#Range: > 0
+			nourishment_base = 1
+			#Range: > 0
+			nourishment_level = 2
+			#Range: 0.0 ~ 1.7976931348623157E308
+			saturation = 2.0
+
+		[general.base.naturesgrace]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 22
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 22
+			incompats = ["uniquee:aresblessing", "uniquee:alchemistsgrace", "uniquee:warriorsgrace"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			healing_base = 0.6
+			#Range: 0.0 ~ 1.7976931348623157E308
+			healing_level = 0.2
+			#Range: > 0
+			delay = 100
+
+		[general.base.ecological]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 22
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 40
+			incompats = ["uniquee:warriorsgrace", "uniquee:endermarksmen", "minecraft:mending", "minecraft:infinity"]
+			#Range: > 0
+			speed = 220
+			#Range: 0.0 ~ 1.7976931348623157E308
+			scale = 1.85
+
+		[general.base.phoenixs_blessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 26
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 2
+			incompats = []
+
+		[general.base.midas_blessing]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 2
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 75
+			incompats = ["minecraft:fortune", "minecraft:silk_touch", "uniquee:ifrits_grace"]
+			#Range: > 0
+			level_scalar = 6
+
+		[general.base.ifrits_grace]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 3
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 14
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 40
+			incompats = ["minecraft:fortune", "minecraft:silk_touch", "uniquee:midas_blessing"]
+			#Range: > 0
+			scalar = 10
+			lava_items = ["minecraft:lava_bucket;250", "minecraft:magma_cream;20"]
+
+		[general.base.icarus_aegis]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 2
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 2
+			#Range: > 0
+			cost_limit = 20
+			incompats = []
+			#Range: > 0
+			scalar = 24
+
+		[general.base.ender_librarian]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 24
+			#Range: > 0
+			per_level_cost = 3
+			#Range: > 0
+			cost_limit = 10
+			incompats = []
+
+		[general.base.demeters_soul]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "VERY_RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 20
+			#Range: > 0
+			per_level_cost = 6
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+
+		[general.base.endest_reap]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 4
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = true
+			#Range: > 0
+			base_cost = 30
+			#Range: > 0
+			per_level_cost = 6
+			#Range: > 0
+			cost_limit = 20
+			incompats = ["minecraft:sharpness", "minecraft:mending", "uniquee:all", "uniquee:ender_mending", "uniquee:spartanweapon", "uniquee:sages_blessing"]
+			#Range: 0.0 ~ 1.7976931348623157E308
+			bonus_damage_level = 0.7
+			#Range: 0.0 ~ 1.7976931348623157E308
+			reap_multiplier = 0.005
+			valid_entities = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:shulker", "minecraft:elder_guardian", "minecraft:ravager", "minecraft:evoker"]
+
+		[general.base.pestilences_odium]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "RARE"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+			#Range: 0.0 ~ 1.7976931348623157E308
+			radius = 7.0
+			#Range: > 0
+			delay = 300
+			#Range: 0.0 ~ 1.7976931348623157E308
+			damage_per_tick = 0.25
+
+		[general.base.deaths_odium]
+			enabled = true
+			activated = true
+			#Range: > 0
+			min_level = 1
+			#Range: > 0
+			max_level = 1
+			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
+			rarity = "UNCOMMON"
+			treasure = false
+			#Range: > 0
+			base_cost = 10
+			#Range: > 0
+			per_level_cost = 4
+			#Range: > 0
+			cost_limit = 40
+			incompats = []
+			#Range: > 0
+			collector_time = 200
+			#Range: > 0
+			curse_storage_cap = 5
+			#Range: > 0
+			damage_factor = 30
+
